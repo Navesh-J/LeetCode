@@ -10,6 +10,7 @@ A collection of LeetCode questions.
 | [0643-maximum-average-subarray-i](https://github.com/Navesh-J/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1651-shuffle-string](https://github.com/Navesh-J/LeetCode/tree/master/1651-shuffle-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Navesh-J/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Navesh-J/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Navesh-J/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions.
 | [0219-contains-duplicate-ii](https://github.com/Navesh-J/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Navesh-J/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Navesh-J/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Navesh-J/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## String
@@ -35,6 +37,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Navesh-J/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Two Pointers
 |  |
 | ------- |
