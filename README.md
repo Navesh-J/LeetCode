@@ -7,6 +7,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0001-two-sum](https://github.com/Navesh-J/LeetCode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Navesh-J/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/Navesh-J/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Navesh-J/LeetCode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Navesh-J/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Navesh-J/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -95,4 +96,8 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Navesh-J/LeetCode/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Navesh-J/LeetCode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
