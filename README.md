@@ -88,6 +88,7 @@ A collection of LeetCode questions.
 ## Simulation
 |  |
 | ------- |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Navesh-J/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2470-removing-stars-from-a-string](https://github.com/Navesh-J/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Navesh-J/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 ## Greedy
@@ -129,6 +130,7 @@ A collection of LeetCode questions.
 | [0633-sum-of-square-numbers](https://github.com/Navesh-J/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Navesh-J/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/Navesh-J/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Navesh-J/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
