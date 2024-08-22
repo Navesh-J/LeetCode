@@ -148,4 +148,8 @@ A collection of LeetCode questions.
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Navesh-J/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Navesh-J/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Navesh-J/LeetCode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
