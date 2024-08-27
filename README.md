@@ -49,6 +49,7 @@ A collection of LeetCode questions.
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Navesh-J/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Navesh-J/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/Navesh-J/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Navesh-J/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Navesh-J/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions.
 | [2235-capitalize-the-title](https://github.com/Navesh-J/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Navesh-J/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2391-strong-password-checker-ii](https://github.com/Navesh-J/LeetCode/tree/master/2391-strong-password-checker-ii) |
+| [2427-first-letter-to-appear-twice](https://github.com/Navesh-J/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/Navesh-J/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/Navesh-J/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Navesh-J/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions.
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Navesh-J/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Navesh-J/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/Navesh-J/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navesh-J/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
@@ -169,6 +172,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Navesh-J/LeetCode/tree/master/0476-number-complement) |
+| [2427-first-letter-to-appear-twice](https://github.com/Navesh-J/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## String Matching
 |  |
 | ------- |
