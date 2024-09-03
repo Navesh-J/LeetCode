@@ -57,6 +57,7 @@ A collection of LeetCode questions.
 | [1848-sum-of-unique-elements](https://github.com/Navesh-J/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Navesh-J/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2406-decode-the-message](https://github.com/Navesh-J/LeetCode/tree/master/2406-decode-the-message) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Navesh-J/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Navesh-J/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Navesh-J/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions.
 | [2235-capitalize-the-title](https://github.com/Navesh-J/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Navesh-J/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2391-strong-password-checker-ii](https://github.com/Navesh-J/LeetCode/tree/master/2391-strong-password-checker-ii) |
+| [2406-decode-the-message](https://github.com/Navesh-J/LeetCode/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/Navesh-J/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/Navesh-J/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/Navesh-J/LeetCode/tree/master/3194-find-words-containing-character) |
