@@ -12,6 +12,7 @@ A collection of LeetCode questions.
 | [0217-contains-duplicate](https://github.com/Navesh-J/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Navesh-J/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Navesh-J/LeetCode/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navesh-J/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Navesh-J/LeetCode/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/Navesh-J/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions.
 | [0229-majority-element-ii](https://github.com/Navesh-J/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Navesh-J/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Navesh-J/LeetCode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navesh-J/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Navesh-J/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Navesh-J/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions.
 | [0088-merge-sorted-array](https://github.com/Navesh-J/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Navesh-J/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Navesh-J/LeetCode/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navesh-J/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Navesh-J/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Navesh-J/LeetCode/tree/master/0455-assign-cookies) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions.
 | [0217-contains-duplicate](https://github.com/Navesh-J/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Navesh-J/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Navesh-J/LeetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navesh-J/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Navesh-J/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Navesh-J/LeetCode/tree/master/0455-assign-cookies) |
@@ -190,6 +194,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Navesh-J/LeetCode/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navesh-J/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Navesh-J/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Navesh-J/LeetCode/tree/master/0633-sum-of-square-numbers) |
