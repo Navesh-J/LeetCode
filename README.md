@@ -206,6 +206,7 @@ A collection of LeetCode questions.
 | [0633-sum-of-square-numbers](https://github.com/Navesh-J/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Navesh-J/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Navesh-J/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1610-xor-operation-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Navesh-J/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2155-find-missing-observations](https://github.com/Navesh-J/LeetCode/tree/master/2155-find-missing-observations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Navesh-J/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Navesh-J/LeetCode/tree/master/0476-number-complement) |
+| [1610-xor-operation-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Navesh-J/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## String Matching
 |  |
