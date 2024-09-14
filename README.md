@@ -242,6 +242,7 @@ A collection of LeetCode questions.
 | [1786-count-the-number-of-consistent-strings](https://github.com/Navesh-J/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/Navesh-J/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Navesh-J/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2659-number-of-even-and-odd-bits](https://github.com/Navesh-J/LeetCode/tree/master/2659-number-of-even-and-odd-bits) |
 ## String Matching
 |  |
 | ------- |
