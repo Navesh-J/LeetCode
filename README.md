@@ -75,6 +75,7 @@ A collection of LeetCode questions.
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Navesh-J/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Navesh-J/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Navesh-J/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [1904-second-largest-digit-in-a-string](https://github.com/Navesh-J/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Navesh-J/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Navesh-J/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions.
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Navesh-J/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Navesh-J/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/Navesh-J/LeetCode/tree/master/1797-goal-parser-interpretation) |
+| [1904-second-largest-digit-in-a-string](https://github.com/Navesh-J/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Navesh-J/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Navesh-J/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
