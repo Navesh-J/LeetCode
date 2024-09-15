@@ -6,6 +6,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Navesh-J/LeetCode/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/Navesh-J/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Navesh-J/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Navesh-J/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Navesh-J/LeetCode/tree/master/0189-rotate-array) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Navesh-J/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Navesh-J/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Navesh-J/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Navesh-J/LeetCode/tree/master/0338-counting-bits) |
@@ -286,4 +288,8 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Navesh-J/LeetCode/tree/master/0338-counting-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Navesh-J/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
