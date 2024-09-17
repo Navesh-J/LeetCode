@@ -221,6 +221,7 @@ A collection of LeetCode questions.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Navesh-J/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Navesh-J/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Navesh-J/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Navesh-J/LeetCode/tree/master/0268-missing-number) |
