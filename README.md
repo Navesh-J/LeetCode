@@ -247,6 +247,7 @@ A collection of LeetCode questions.
 | [0231-power-of-two](https://github.com/Navesh-J/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Navesh-J/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Navesh-J/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0507-perfect-number](https://github.com/Navesh-J/LeetCode/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/Navesh-J/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/Navesh-J/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Navesh-J/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
