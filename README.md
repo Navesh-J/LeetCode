@@ -63,6 +63,7 @@ A collection of LeetCode questions.
 | [3206-find-common-elements-between-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Navesh-J/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Navesh-J/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Navesh-J/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Navesh-J/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Navesh-J/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Hash Table
@@ -258,6 +259,7 @@ A collection of LeetCode questions.
 | [2155-find-missing-observations](https://github.com/Navesh-J/LeetCode/tree/master/2155-find-missing-observations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Navesh-J/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3055-maximum-odd-binary-number](https://github.com/Navesh-J/LeetCode/tree/master/3055-maximum-odd-binary-number) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Navesh-J/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Navesh-J/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
