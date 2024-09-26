@@ -24,6 +24,7 @@ A collection of LeetCode questions.
 | [0932-monotonic-array](https://github.com/Navesh-J/LeetCode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/Navesh-J/LeetCode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Navesh-J/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Navesh-J/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Navesh-J/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Navesh-J/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1256-rank-transform-of-an-array](https://github.com/Navesh-J/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions.
 | [0387-first-unique-character-in-a-string](https://github.com/Navesh-J/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Navesh-J/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Navesh-J/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Navesh-J/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/Navesh-J/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Navesh-J/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Navesh-J/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions.
 | [0680-valid-palindrome-ii](https://github.com/Navesh-J/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Navesh-J/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Navesh-J/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Navesh-J/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Navesh-J/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Navesh-J/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1449-print-words-vertically](https://github.com/Navesh-J/LeetCode/tree/master/1449-print-words-vertically) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions.
 | [0387-first-unique-character-in-a-string](https://github.com/Navesh-J/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Navesh-J/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Navesh-J/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Navesh-J/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Navesh-J/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Navesh-J/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
