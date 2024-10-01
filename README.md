@@ -19,6 +19,7 @@ A collection of LeetCode questions.
 | [0455-assign-cookies](https://github.com/Navesh-J/LeetCode/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/Navesh-J/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0643-maximum-average-subarray-i](https://github.com/Navesh-J/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Navesh-J/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Navesh-J/LeetCode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Navesh-J/LeetCode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/Navesh-J/LeetCode/tree/master/0932-monotonic-array) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions.
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navesh-J/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Navesh-J/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Navesh-J/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Navesh-J/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Navesh-J/LeetCode/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navesh-J/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Navesh-J/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
