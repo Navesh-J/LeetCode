@@ -47,6 +47,7 @@ A collection of LeetCode questions.
 | [1786-count-the-number-of-consistent-strings](https://github.com/Navesh-J/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Navesh-J/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/Navesh-J/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [1944-truncate-sentence](https://github.com/Navesh-J/LeetCode/tree/master/1944-truncate-sentence) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Navesh-J/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Navesh-J/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/Navesh-J/LeetCode/tree/master/2155-find-missing-observations) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions.
 | [1894-merge-strings-alternately](https://github.com/Navesh-J/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Navesh-J/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Navesh-J/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1944-truncate-sentence](https://github.com/Navesh-J/LeetCode/tree/master/1944-truncate-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/Navesh-J/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Navesh-J/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Navesh-J/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
