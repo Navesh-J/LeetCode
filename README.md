@@ -39,6 +39,7 @@ A collection of LeetCode questions.
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Navesh-J/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Navesh-J/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1449-print-words-vertically](https://github.com/Navesh-J/LeetCode/tree/master/1449-print-words-vertically) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Navesh-J/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navesh-J/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Navesh-J/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions.
 | [0920-uncommon-words-from-two-sentences](https://github.com/Navesh-J/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Navesh-J/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Navesh-J/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Navesh-J/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Navesh-J/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Navesh-J/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions.
 | [0948-sort-an-array](https://github.com/Navesh-J/LeetCode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Navesh-J/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Navesh-J/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Navesh-J/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Navesh-J/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1752-arithmetic-subarrays](https://github.com/Navesh-J/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Navesh-J/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions.
 | [0476-number-complement](https://github.com/Navesh-J/LeetCode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Navesh-J/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Navesh-J/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Navesh-J/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Navesh-J/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2159-two-out-of-three](https://github.com/Navesh-J/LeetCode/tree/master/2159-two-out-of-three) |
