@@ -67,6 +67,7 @@ A collection of LeetCode questions.
 | [2215-finding-3-digit-even-numbers](https://github.com/Navesh-J/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Navesh-J/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Navesh-J/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/Navesh-J/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Navesh-J/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Navesh-J/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Navesh-J/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions.
 | [2215-finding-3-digit-even-numbers](https://github.com/Navesh-J/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Navesh-J/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Navesh-J/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/Navesh-J/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Navesh-J/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Navesh-J/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Navesh-J/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
