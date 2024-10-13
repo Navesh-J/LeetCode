@@ -42,6 +42,7 @@ A collection of LeetCode questions.
 | [1435-xor-queries-of-a-subarray](https://github.com/Navesh-J/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1449-print-words-vertically](https://github.com/Navesh-J/LeetCode/tree/master/1449-print-words-vertically) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Navesh-J/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Navesh-J/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navesh-J/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Navesh-J/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions.
 | [1319-unique-number-of-occurrences](https://github.com/Navesh-J/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Navesh-J/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Navesh-J/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Navesh-J/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Navesh-J/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions.
 | [0680-valid-palindrome-ii](https://github.com/Navesh-J/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0941-sort-array-by-parity](https://github.com/Navesh-J/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Navesh-J/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Navesh-J/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Navesh-J/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/Navesh-J/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Navesh-J/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions.
 | [1019-squares-of-a-sorted-array](https://github.com/Navesh-J/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Navesh-J/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Navesh-J/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Navesh-J/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Navesh-J/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1752-arithmetic-subarrays](https://github.com/Navesh-J/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Navesh-J/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -359,6 +363,7 @@ A collection of LeetCode questions.
 | [0633-sum-of-square-numbers](https://github.com/Navesh-J/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Navesh-J/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Navesh-J/LeetCode/tree/master/0792-binary-search) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Navesh-J/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navesh-J/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Navesh-J/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navesh-J/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
