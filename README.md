@@ -33,6 +33,7 @@ A collection of LeetCode questions.
 | [0941-sort-array-by-parity](https://github.com/Navesh-J/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Navesh-J/LeetCode/tree/master/0944-smallest-range-i) |
 | [0948-sort-an-array](https://github.com/Navesh-J/LeetCode/tree/master/0948-sort-an-array) |
+| [0958-sort-array-by-parity-ii](https://github.com/Navesh-J/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Navesh-J/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Navesh-J/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Navesh-J/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions.
 | [0633-sum-of-square-numbers](https://github.com/Navesh-J/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/Navesh-J/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0941-sort-array-by-parity](https://github.com/Navesh-J/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Navesh-J/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Navesh-J/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navesh-J/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Navesh-J/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions.
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Navesh-J/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/Navesh-J/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Navesh-J/LeetCode/tree/master/0948-sort-an-array) |
+| [0958-sort-array-by-parity-ii](https://github.com/Navesh-J/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Navesh-J/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Navesh-J/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Navesh-J/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
