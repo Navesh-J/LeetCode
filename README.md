@@ -282,6 +282,7 @@ A collection of LeetCode questions.
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Navesh-J/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Navesh-J/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2650-split-with-minimum-sum](https://github.com/Navesh-J/LeetCode/tree/master/2650-split-with-minimum-sum) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Navesh-J/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3055-maximum-odd-binary-number](https://github.com/Navesh-J/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/Navesh-J/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
@@ -368,6 +369,7 @@ A collection of LeetCode questions.
 | [2288-count-operations-to-obtain-zero](https://github.com/Navesh-J/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Navesh-J/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2650-split-with-minimum-sum](https://github.com/Navesh-J/LeetCode/tree/master/2650-split-with-minimum-sum) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Navesh-J/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3055-maximum-odd-binary-number](https://github.com/Navesh-J/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Navesh-J/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Navesh-J/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
