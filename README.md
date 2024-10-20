@@ -170,6 +170,7 @@ A collection of LeetCode questions.
 | [0920-uncommon-words-from-two-sentences](https://github.com/Navesh-J/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Navesh-J/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Navesh-J/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1197-parsing-a-boolean-expression](https://github.com/Navesh-J/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1297-maximum-number-of-balloons](https://github.com/Navesh-J/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Navesh-J/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Navesh-J/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Navesh-J/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Navesh-J/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1197-parsing-a-boolean-expression](https://github.com/Navesh-J/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Navesh-J/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/Navesh-J/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Navesh-J/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Navesh-J/LeetCode/tree/master/0231-power-of-two) |
+| [1197-parsing-a-boolean-expression](https://github.com/Navesh-J/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Navesh-J/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Dynamic Programming
 |  |
