@@ -396,6 +396,7 @@ A collection of LeetCode questions.
 | [1635-number-of-good-pairs](https://github.com/Navesh-J/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/Navesh-J/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/Navesh-J/LeetCode/tree/master/2155-find-missing-observations) |
+| [2238-a-number-after-a-double-reversal](https://github.com/Navesh-J/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Navesh-J/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Navesh-J/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2650-split-with-minimum-sum](https://github.com/Navesh-J/LeetCode/tree/master/2650-split-with-minimum-sum) |
