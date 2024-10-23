@@ -516,4 +516,8 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Navesh-J/LeetCode/tree/master/0692-top-k-frequent-words) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Navesh-J/LeetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
