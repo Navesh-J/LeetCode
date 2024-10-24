@@ -58,6 +58,7 @@ A collection of LeetCode questions.
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Navesh-J/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/Navesh-J/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Navesh-J/LeetCode/tree/master/1651-shuffle-string) |
+| [1656-count-good-triplets](https://github.com/Navesh-J/LeetCode/tree/master/1656-count-good-triplets) |
 | [1752-arithmetic-subarrays](https://github.com/Navesh-J/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Navesh-J/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Navesh-J/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Navesh-J/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1656-count-good-triplets](https://github.com/Navesh-J/LeetCode/tree/master/1656-count-good-triplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Navesh-J/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Navesh-J/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Bit Manipulation
