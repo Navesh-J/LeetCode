@@ -156,6 +156,7 @@ A collection of LeetCode questions.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Navesh-J/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Navesh-J/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Navesh-J/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Navesh-J/LeetCode/tree/master/0242-valid-anagram) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Navesh-J/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Navesh-J/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Navesh-J/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Navesh-J/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
