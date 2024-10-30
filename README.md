@@ -36,6 +36,7 @@ A collection of LeetCode questions.
 | [0944-smallest-range-i](https://github.com/Navesh-J/LeetCode/tree/master/0944-smallest-range-i) |
 | [0948-sort-an-array](https://github.com/Navesh-J/LeetCode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Navesh-J/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [0978-valid-mountain-array](https://github.com/Navesh-J/LeetCode/tree/master/0978-valid-mountain-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Navesh-J/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1019-squares-of-a-sorted-array](https://github.com/Navesh-J/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Navesh-J/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
