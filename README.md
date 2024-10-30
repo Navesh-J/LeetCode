@@ -35,6 +35,7 @@ A collection of LeetCode questions.
 | [0941-sort-array-by-parity](https://github.com/Navesh-J/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Navesh-J/LeetCode/tree/master/0944-smallest-range-i) |
 | [0948-sort-an-array](https://github.com/Navesh-J/LeetCode/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Navesh-J/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0958-sort-array-by-parity-ii](https://github.com/Navesh-J/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0978-valid-mountain-array](https://github.com/Navesh-J/LeetCode/tree/master/0978-valid-mountain-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Navesh-J/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Navesh-J/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Navesh-J/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Math
 |  |
 | ------- |
@@ -509,6 +511,7 @@ A collection of LeetCode questions.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Navesh-J/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Navesh-J/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Navesh-J/LeetCode/tree/master/0392-is-subsequence) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Navesh-J/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Backtracking
 |  |
@@ -522,6 +525,7 @@ A collection of LeetCode questions.
 | [0215-kth-largest-element-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Navesh-J/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Navesh-J/LeetCode/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Navesh-J/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Merge Sort
 |  |
 | ------- |
@@ -553,4 +557,8 @@ A collection of LeetCode questions.
 | [0584-find-customer-referee](https://github.com/Navesh-J/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Navesh-J/LeetCode/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Navesh-J/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Navesh-J/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
