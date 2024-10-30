@@ -219,6 +219,7 @@ A collection of LeetCode questions.
 | [2406-decode-the-message](https://github.com/Navesh-J/LeetCode/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/Navesh-J/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/Navesh-J/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2580-circular-sentence](https://github.com/Navesh-J/LeetCode/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Navesh-J/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3055-maximum-odd-binary-number](https://github.com/Navesh-J/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/Navesh-J/LeetCode/tree/master/3194-find-words-containing-character) |
