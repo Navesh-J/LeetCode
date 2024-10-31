@@ -103,6 +103,7 @@ A collection of LeetCode questions.
 | [3206-find-common-elements-between-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navesh-J/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Navesh-J/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/Navesh-J/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Navesh-J/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Navesh-J/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Navesh-J/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions.
 | [2639-separate-the-digits-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Navesh-J/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Navesh-J/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/Navesh-J/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Greedy
 |  |
 | ------- |
