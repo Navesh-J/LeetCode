@@ -188,6 +188,7 @@ A collection of LeetCode questions.
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Navesh-J/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1197-parsing-a-boolean-expression](https://github.com/Navesh-J/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1297-maximum-number-of-balloons](https://github.com/Navesh-J/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Navesh-J/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Navesh-J/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Navesh-J/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1449-print-words-vertically](https://github.com/Navesh-J/LeetCode/tree/master/1449-print-words-vertically) |
