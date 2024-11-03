@@ -183,6 +183,7 @@ A collection of LeetCode questions.
 | [0680-valid-palindrome-ii](https://github.com/Navesh-J/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Navesh-J/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/Navesh-J/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/Navesh-J/LeetCode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Navesh-J/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Navesh-J/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Navesh-J/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions.
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/Navesh-J/LeetCode/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Navesh-J/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Navesh-J/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Matrix
