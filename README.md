@@ -188,6 +188,7 @@ A collection of LeetCode questions.
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Navesh-J/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Navesh-J/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1197-parsing-a-boolean-expression](https://github.com/Navesh-J/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
+| [1205-defanging-an-ip-address](https://github.com/Navesh-J/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1297-maximum-number-of-balloons](https://github.com/Navesh-J/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Navesh-J/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Navesh-J/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
