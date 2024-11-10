@@ -253,6 +253,7 @@ A collection of LeetCode questions.
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Navesh-J/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Navesh-J/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1708-design-parking-system](https://github.com/Navesh-J/LeetCode/tree/master/1708-design-parking-system) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Navesh-J/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Navesh-J/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Navesh-J/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions.
 | [0415-add-strings](https://github.com/Navesh-J/LeetCode/tree/master/0415-add-strings) |
 | [1449-print-words-vertically](https://github.com/Navesh-J/LeetCode/tree/master/1449-print-words-vertically) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Navesh-J/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1708-design-parking-system](https://github.com/Navesh-J/LeetCode/tree/master/1708-design-parking-system) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Navesh-J/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Navesh-J/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Navesh-J/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -586,4 +588,8 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Navesh-J/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+## Design
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/Navesh-J/LeetCode/tree/master/1708-design-parking-system) |
 <!---LeetCode Topics End-->
