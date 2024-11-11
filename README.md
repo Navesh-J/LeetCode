@@ -445,6 +445,7 @@ A collection of LeetCode questions.
 | [1610-xor-operation-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Navesh-J/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/Navesh-J/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2037-count-square-sum-triples](https://github.com/Navesh-J/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2155-find-missing-observations](https://github.com/Navesh-J/LeetCode/tree/master/2155-find-missing-observations) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Navesh-J/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Navesh-J/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions.
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Navesh-J/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1656-count-good-triplets](https://github.com/Navesh-J/LeetCode/tree/master/1656-count-good-triplets) |
+| [2037-count-square-sum-triples](https://github.com/Navesh-J/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Navesh-J/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Navesh-J/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Bit Manipulation
