@@ -115,6 +115,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Navesh-J/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Navesh-J/LeetCode/tree/master/0012-integer-to-roman) |
 | [0205-isomorphic-strings](https://github.com/Navesh-J/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Navesh-J/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Navesh-J/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions.
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Navesh-J/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Navesh-J/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Navesh-J/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Navesh-J/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Navesh-J/LeetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Navesh-J/LeetCode/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/Navesh-J/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Navesh-J/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Navesh-J/LeetCode/tree/master/0268-missing-number) |
