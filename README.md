@@ -103,6 +103,7 @@ A collection of LeetCode questions.
 | [2881-split-strings-by-separator](https://github.com/Navesh-J/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Navesh-J/LeetCode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Navesh-J/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Navesh-J/LeetCode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3194-find-words-containing-character](https://github.com/Navesh-J/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navesh-J/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
