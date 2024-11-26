@@ -198,6 +198,7 @@ A collection of LeetCode questions.
 | [0438-find-all-anagrams-in-a-string](https://github.com/Navesh-J/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Navesh-J/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Navesh-J/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0481-magical-string](https://github.com/Navesh-J/LeetCode/tree/master/0481-magical-string) |
 | [0520-detect-capital](https://github.com/Navesh-J/LeetCode/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/Navesh-J/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/Navesh-J/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions.
 | [0392-is-subsequence](https://github.com/Navesh-J/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Navesh-J/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Navesh-J/LeetCode/tree/master/0455-assign-cookies) |
+| [0481-magical-string](https://github.com/Navesh-J/LeetCode/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/Navesh-J/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Navesh-J/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Navesh-J/LeetCode/tree/master/0567-permutation-in-string) |
