@@ -260,6 +260,7 @@ A collection of LeetCode questions.
 | [3195-separate-black-and-white-balls](https://github.com/Navesh-J/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Navesh-J/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3451-string-compression-iii](https://github.com/Navesh-J/LeetCode/tree/master/3451-string-compression-iii) |
+| [3540-hash-divided-string](https://github.com/Navesh-J/LeetCode/tree/master/3540-hash-divided-string) |
 ## Counting
 |  |
 | ------- |
@@ -356,6 +357,7 @@ A collection of LeetCode questions.
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Navesh-J/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Navesh-J/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Navesh-J/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3540-hash-divided-string](https://github.com/Navesh-J/LeetCode/tree/master/3540-hash-divided-string) |
 ## Greedy
 |  |
 | ------- |
