@@ -183,6 +183,7 @@ A collection of LeetCode questions.
 | [2586-longest-square-streak-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navesh-J/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/Navesh-J/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Navesh-J/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 ## String
 |  |
@@ -258,6 +259,7 @@ A collection of LeetCode questions.
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Navesh-J/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/Navesh-J/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/Navesh-J/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/Navesh-J/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Navesh-J/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3451-string-compression-iii](https://github.com/Navesh-J/LeetCode/tree/master/3451-string-compression-iii) |
 | [3540-hash-divided-string](https://github.com/Navesh-J/LeetCode/tree/master/3540-hash-divided-string) |
