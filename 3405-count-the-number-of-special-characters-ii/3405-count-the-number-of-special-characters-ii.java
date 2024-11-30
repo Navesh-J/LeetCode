@@ -5,9 +5,8 @@ class Solution {
             char CH=Character.toUpperCase(ch);
             int x=word.lastIndexOf(ch);
             int y=word.indexOf(CH);
-            if(x>-1 && y>-1){
-                if(x<y)
-                    count++;
+            if(x>-1 && y>-1 && x<y){
+                count++;
             }
         }
         return count;
