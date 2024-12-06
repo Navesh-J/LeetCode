@@ -107,6 +107,7 @@ A collection of LeetCode questions.
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navesh-J/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Navesh-J/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Navesh-J/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Navesh-J/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Navesh-J/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Navesh-J/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions.
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Navesh-J/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Navesh-J/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Navesh-J/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navesh-J/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Navesh-J/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions.
 | [2329-maximum-product-after-k-increments](https://github.com/Navesh-J/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Navesh-J/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Navesh-J/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Navesh-J/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2650-split-with-minimum-sum](https://github.com/Navesh-J/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Navesh-J/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Navesh-J/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions.
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Navesh-J/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Navesh-J/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Navesh-J/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2650-split-with-minimum-sum](https://github.com/Navesh-J/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Navesh-J/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Navesh-J/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -521,6 +525,7 @@ A collection of LeetCode questions.
 | [2210-find-target-indices-after-sorting-array](https://github.com/Navesh-J/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navesh-J/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Navesh-J/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Enumeration
 |  |
 | ------- |
