@@ -148,6 +148,7 @@ A collection of LeetCode questions.
 | [0567-permutation-in-string](https://github.com/Navesh-J/LeetCode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Navesh-J/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/Navesh-J/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0889-buddy-strings](https://github.com/Navesh-J/LeetCode/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Navesh-J/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Navesh-J/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Navesh-J/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions.
 | [0692-top-k-frequent-words](https://github.com/Navesh-J/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/Navesh-J/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Navesh-J/LeetCode/tree/master/0812-rotate-string) |
+| [0889-buddy-strings](https://github.com/Navesh-J/LeetCode/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Navesh-J/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Navesh-J/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Navesh-J/LeetCode/tree/master/0979-di-string-match) |
