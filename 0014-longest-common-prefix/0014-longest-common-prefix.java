@@ -1,10 +1,7 @@
 class Solution {
     public String longestCommonPrefix(String[] strs) {
+        if (strs == null || strs.length == 0) return "";
         String word=strs[0];
-        for(String s:strs){
-            if(s.length()<word.length())
-            word=s;
-        }
         String prefix="";
         for(char ch:word.toCharArray()){
             prefix+=ch;
