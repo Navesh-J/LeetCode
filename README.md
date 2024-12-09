@@ -194,6 +194,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Navesh-J/LeetCode/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/Navesh-J/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Navesh-J/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Navesh-J/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Navesh-J/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions.
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Navesh-J/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/Navesh-J/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Database
 |  |
