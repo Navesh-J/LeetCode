@@ -188,6 +188,7 @@ A collection of LeetCode questions.
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Navesh-J/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navesh-J/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navesh-J/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Navesh-J/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Navesh-J/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 ## String
@@ -269,6 +270,7 @@ A collection of LeetCode questions.
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Navesh-J/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3194-find-words-containing-character](https://github.com/Navesh-J/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/Navesh-J/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navesh-J/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Navesh-J/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Navesh-J/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3451-string-compression-iii](https://github.com/Navesh-J/LeetCode/tree/master/3451-string-compression-iii) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions.
 | [2433-best-poker-hand](https://github.com/Navesh-J/LeetCode/tree/master/2433-best-poker-hand) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navesh-J/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navesh-J/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navesh-J/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -409,6 +412,7 @@ A collection of LeetCode questions.
 | [0567-permutation-in-string](https://github.com/Navesh-J/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Navesh-J/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1755-defuse-the-bomb](https://github.com/Navesh-J/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navesh-J/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Navesh-J/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Sorting
 |  |
@@ -531,6 +535,7 @@ A collection of LeetCode questions.
 | [2586-longest-square-streak-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navesh-J/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Navesh-J/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navesh-J/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Enumeration
 |  |
 | ------- |
