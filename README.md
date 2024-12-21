@@ -533,6 +533,7 @@ A collection of LeetCode questions.
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Navesh-J/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Navesh-J/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1674-minimum-operations-to-make-array-equal](https://github.com/Navesh-J/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Navesh-J/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Navesh-J/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2037-count-square-sum-triples](https://github.com/Navesh-J/LeetCode/tree/master/2037-count-square-sum-triples) |
