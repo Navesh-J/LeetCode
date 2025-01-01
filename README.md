@@ -249,6 +249,7 @@ A collection of LeetCode questions.
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Navesh-J/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Navesh-J/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1449-print-words-vertically](https://github.com/Navesh-J/LeetCode/tree/master/1449-print-words-vertically) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Navesh-J/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Navesh-J/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/Navesh-J/LeetCode/tree/master/1651-shuffle-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Navesh-J/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Navesh-J/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Navesh-J/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Navesh-J/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Navesh-J/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Navesh-J/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
