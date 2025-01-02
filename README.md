@@ -120,6 +120,7 @@ A collection of LeetCode questions.
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Navesh-J/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Navesh-J/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Navesh-J/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Navesh-J/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Navesh-J/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Navesh-J/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions.
 | [2470-removing-stars-from-a-string](https://github.com/Navesh-J/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/Navesh-J/LeetCode/tree/master/2580-circular-sentence) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Navesh-J/LeetCode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Navesh-J/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Navesh-J/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2881-split-strings-by-separator](https://github.com/Navesh-J/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Navesh-J/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions.
 | [1603-running-sum-of-1d-array](https://github.com/Navesh-J/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Navesh-J/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Navesh-J/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Navesh-J/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Brainteaser
 |  |
 | ------- |
