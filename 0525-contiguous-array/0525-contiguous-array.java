@@ -3,12 +3,10 @@ class Solution {
         int res=0;
         int n=nums.length;
         Map<Integer,Integer> map=new HashMap<>();
+        int sum=0,psum=0;
         for(int i=0;i<n;i++){
             if(nums[i]==0)
                 nums[i]=-1;
-        }
-        int sum=0,psum=0;
-        for(int i=0;i<n;i++){
             psum+=nums[i];
             if(psum == sum)
                 res=i+1;
