@@ -26,6 +26,7 @@ A collection of LeetCode questions.
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navesh-J/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Navesh-J/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Navesh-J/LeetCode/tree/master/0455-assign-cookies) |
+| [0525-contiguous-array](https://github.com/Navesh-J/LeetCode/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/Navesh-J/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Navesh-J/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Navesh-J/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions.
 | [0387-first-unique-character-in-a-string](https://github.com/Navesh-J/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Navesh-J/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Navesh-J/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/Navesh-J/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Navesh-J/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Navesh-J/LeetCode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Navesh-J/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions.
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Navesh-J/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Navesh-J/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Navesh-J/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Navesh-J/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
