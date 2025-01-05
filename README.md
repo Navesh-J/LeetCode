@@ -33,6 +33,7 @@ A collection of LeetCode questions.
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Navesh-J/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Navesh-J/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Navesh-J/LeetCode/tree/master/0792-binary-search) |
+| [0878-shifting-letters](https://github.com/Navesh-J/LeetCode/tree/master/0878-shifting-letters) |
 | [0890-lemonade-change](https://github.com/Navesh-J/LeetCode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/Navesh-J/LeetCode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Navesh-J/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions.
 | [0692-top-k-frequent-words](https://github.com/Navesh-J/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/Navesh-J/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Navesh-J/LeetCode/tree/master/0812-rotate-string) |
+| [0878-shifting-letters](https://github.com/Navesh-J/LeetCode/tree/master/0878-shifting-letters) |
 | [0889-buddy-strings](https://github.com/Navesh-J/LeetCode/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Navesh-J/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Navesh-J/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0525-contiguous-array](https://github.com/Navesh-J/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Navesh-J/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0878-shifting-letters](https://github.com/Navesh-J/LeetCode/tree/master/0878-shifting-letters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Navesh-J/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Navesh-J/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Navesh-J/LeetCode/tree/master/1603-running-sum-of-1d-array) |
