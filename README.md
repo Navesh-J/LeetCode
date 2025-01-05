@@ -111,6 +111,7 @@ A collection of LeetCode questions.
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Navesh-J/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2433-best-poker-hand](https://github.com/Navesh-J/LeetCode/tree/master/2433-best-poker-hand) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Navesh-J/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2465-shifting-letters-ii](https://github.com/Navesh-J/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Navesh-J/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Navesh-J/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Navesh-J/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions.
 | [2406-decode-the-message](https://github.com/Navesh-J/LeetCode/tree/master/2406-decode-the-message) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Navesh-J/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Navesh-J/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
+| [2465-shifting-letters-ii](https://github.com/Navesh-J/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Navesh-J/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/Navesh-J/LeetCode/tree/master/2580-circular-sentence) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Navesh-J/LeetCode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions.
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Navesh-J/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Navesh-J/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Navesh-J/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/Navesh-J/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Navesh-J/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Brainteaser
 |  |
