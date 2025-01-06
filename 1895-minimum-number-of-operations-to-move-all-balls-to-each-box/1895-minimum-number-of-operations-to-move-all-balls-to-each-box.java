@@ -2,15 +2,27 @@ class Solution {
     public int[] minOperations(String boxes) {
         int n=boxes.length();
         int arr[]=new int[n];
+        char[] ch=boxes.toCharArray();
+        int left=0,right=0,ans=0;
         for(int i=0;i<n;i++){
-            int moves=0;
-            for(int j=0;j<n;j++){
-                if(i!=j){
-                    if(boxes.charAt(j)=='1')
-                    moves+=Math.abs(i-j);
-                }
+            if(ch[i]=='1'){
+                ans+=i;
+                right++;
             }
-            arr[i]=moves;
+        }
+        arr[0]=ans;
+        if(ch[0]=='1'){
+            left++;
+            right--;
+        }
+        for(int i=1;i<n;i++){
+            ans-=right;
+            ans+=left;
+            if(ch[i]=='1'){
+                right--;
+                left++;
+            }
+            arr[i]=ans;
         }
         return arr;
     }
