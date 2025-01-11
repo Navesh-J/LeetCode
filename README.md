@@ -185,6 +185,7 @@ A collection of LeetCode questions.
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Navesh-J/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navesh-J/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-construct-k-palindrome-strings](https://github.com/Navesh-J/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Navesh-J/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Navesh-J/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions.
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Navesh-J/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Navesh-J/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1449-print-words-vertically](https://github.com/Navesh-J/LeetCode/tree/master/1449-print-words-vertically) |
+| [1502-construct-k-palindrome-strings](https://github.com/Navesh-J/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Navesh-J/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Navesh-J/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions.
 | [1297-maximum-number-of-balloons](https://github.com/Navesh-J/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Navesh-J/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Navesh-J/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1502-construct-k-palindrome-strings](https://github.com/Navesh-J/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Navesh-J/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1708-design-parking-system](https://github.com/Navesh-J/LeetCode/tree/master/1708-design-parking-system) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions.
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Navesh-J/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Navesh-J/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Navesh-J/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1502-construct-k-palindrome-strings](https://github.com/Navesh-J/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Navesh-J/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Navesh-J/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/Navesh-J/LeetCode/tree/master/2032-largest-odd-number-in-string) |
