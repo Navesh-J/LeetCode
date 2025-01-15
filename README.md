@@ -153,6 +153,7 @@ A collection of LeetCode questions.
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Navesh-J/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navesh-J/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Navesh-J/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
+| [3632-button-with-longest-push-time](https://github.com/Navesh-J/LeetCode/tree/master/3632-button-with-longest-push-time) |
 ## Hash Table
 |  |
 | ------- |
