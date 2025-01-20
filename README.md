@@ -157,6 +157,7 @@ A collection of LeetCode questions.
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navesh-J/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Navesh-J/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3632-button-with-longest-push-time](https://github.com/Navesh-J/LeetCode/tree/master/3632-button-with-longest-push-time) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Navesh-J/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -691,6 +692,7 @@ A collection of LeetCode questions.
 | [2465-shifting-letters-ii](https://github.com/Navesh-J/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Navesh-J/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/Navesh-J/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Navesh-J/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Brainteaser
 |  |
 | ------- |
