@@ -157,6 +157,7 @@ A collection of LeetCode questions.
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navesh-J/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Navesh-J/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3632-button-with-longest-push-time](https://github.com/Navesh-J/LeetCode/tree/master/3632-button-with-longest-push-time) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/Navesh-J/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Navesh-J/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
@@ -444,6 +445,7 @@ A collection of LeetCode questions.
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Navesh-J/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3540-hash-divided-string](https://github.com/Navesh-J/LeetCode/tree/master/3540-hash-divided-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navesh-J/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/Navesh-J/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Greedy
 |  |
 | ------- |
@@ -674,6 +676,7 @@ A collection of LeetCode questions.
 | [1972-rotating-the-box](https://github.com/Navesh-J/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Navesh-J/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Navesh-J/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/Navesh-J/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Prefix Sum
 |  |
 | ------- |
