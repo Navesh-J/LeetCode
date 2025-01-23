@@ -59,6 +59,7 @@ A collection of LeetCode questions.
 | [1319-unique-number-of-occurrences](https://github.com/Navesh-J/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Navesh-J/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Navesh-J/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Navesh-J/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Navesh-J/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Navesh-J/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions.
 | [0728-self-dividing-numbers](https://github.com/Navesh-J/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0944-smallest-range-i](https://github.com/Navesh-J/LeetCode/tree/master/0944-smallest-range-i) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Navesh-J/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Navesh-J/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Navesh-J/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Navesh-J/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Navesh-J/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -789,4 +791,8 @@ A collection of LeetCode questions.
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Navesh-J/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Navesh-J/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/Navesh-J/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
