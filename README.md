@@ -258,6 +258,7 @@ A collection of LeetCode questions.
 | [0451-sort-characters-by-frequency](https://github.com/Navesh-J/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0481-magical-string](https://github.com/Navesh-J/LeetCode/tree/master/0481-magical-string) |
 | [0520-detect-capital](https://github.com/Navesh-J/LeetCode/tree/master/0520-detect-capital) |
+| [0537-complex-number-multiplication](https://github.com/Navesh-J/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/Navesh-J/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/Navesh-J/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Navesh-J/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Navesh-J/LeetCode/tree/master/0415-add-strings) |
+| [0537-complex-number-multiplication](https://github.com/Navesh-J/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [1449-print-words-vertically](https://github.com/Navesh-J/LeetCode/tree/master/1449-print-words-vertically) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Navesh-J/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Navesh-J/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions.
 | [0367-valid-perfect-square](https://github.com/Navesh-J/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Navesh-J/LeetCode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Navesh-J/LeetCode/tree/master/0507-perfect-number) |
+| [0537-complex-number-multiplication](https://github.com/Navesh-J/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/Navesh-J/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/Navesh-J/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Navesh-J/LeetCode/tree/master/0728-self-dividing-numbers) |
