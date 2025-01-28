@@ -36,6 +36,7 @@ A collection of LeetCode questions.
 | [0792-binary-search](https://github.com/Navesh-J/LeetCode/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/Navesh-J/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0878-shifting-letters](https://github.com/Navesh-J/LeetCode/tree/master/0878-shifting-letters) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Navesh-J/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/Navesh-J/LeetCode/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Navesh-J/LeetCode/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Navesh-J/LeetCode/tree/master/0932-monotonic-array) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions.
 | [0633-sum-of-square-numbers](https://github.com/Navesh-J/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Navesh-J/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Navesh-J/LeetCode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Navesh-J/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navesh-J/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navesh-J/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Navesh-J/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
