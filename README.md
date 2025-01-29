@@ -299,6 +299,7 @@ A collection of LeetCode questions.
 | [1899-count-items-matching-a-rule](https://github.com/Navesh-J/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Navesh-J/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Navesh-J/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/Navesh-J/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1944-truncate-sentence](https://github.com/Navesh-J/LeetCode/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/Navesh-J/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Navesh-J/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions.
 | [1635-number-of-good-pairs](https://github.com/Navesh-J/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/Navesh-J/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Navesh-J/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/Navesh-J/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2032-largest-odd-number-in-string](https://github.com/Navesh-J/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2037-count-square-sum-triples](https://github.com/Navesh-J/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2155-find-missing-observations](https://github.com/Navesh-J/LeetCode/tree/master/2155-find-missing-observations) |
