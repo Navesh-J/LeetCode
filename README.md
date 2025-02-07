@@ -322,6 +322,7 @@ A collection of LeetCode questions.
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Navesh-J/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Navesh-J/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2235-capitalize-the-title](https://github.com/Navesh-J/LeetCode/tree/master/2235-capitalize-the-title) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/Navesh-J/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Navesh-J/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Navesh-J/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Navesh-J/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
