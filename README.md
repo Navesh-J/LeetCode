@@ -353,6 +353,7 @@ A collection of LeetCode questions.
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Navesh-J/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Navesh-J/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Navesh-J/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3447-clear-digits](https://github.com/Navesh-J/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Navesh-J/LeetCode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Navesh-J/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3540-hash-divided-string](https://github.com/Navesh-J/LeetCode/tree/master/3540-hash-divided-string) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions.
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Navesh-J/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/Navesh-J/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Navesh-J/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/Navesh-J/LeetCode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -472,6 +474,7 @@ A collection of LeetCode questions.
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Navesh-J/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Navesh-J/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Navesh-J/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3447-clear-digits](https://github.com/Navesh-J/LeetCode/tree/master/3447-clear-digits) |
 | [3540-hash-divided-string](https://github.com/Navesh-J/LeetCode/tree/master/3540-hash-divided-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navesh-J/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Navesh-J/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
