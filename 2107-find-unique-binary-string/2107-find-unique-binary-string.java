@@ -8,9 +8,6 @@ class Solution {
         }
         for(int i=0;i<Math.pow(2,l);i++){
             if(!set.contains(i)){
-                // if(i == 0){
-                //     return "0".repeat(l);
-                // }
                 return String.format("%"+l+"s", Integer.toBinaryString(i)).replace(' ', '0');
             }
         }
