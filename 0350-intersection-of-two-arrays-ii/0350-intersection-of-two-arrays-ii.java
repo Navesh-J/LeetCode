@@ -1,23 +1,20 @@
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
-        // if(nums1.length>nums2.length)
-        // return intersect(nums2,nums1);
-        Map<Integer,Integer> map=new HashMap<>();
+        int count[]=new int[1001];
         for(int num:nums1){
-            map.put(num,map.getOrDefault(num,0)+1);
+            count[num]++;
         }
         List<Integer> list=new ArrayList<>();
         for(int num:nums2){
-            if(map.containsKey(num)&&map.get(num)>0){
+            if(count[num] >0){
                 list.add(num);
-                map.put(num,map.get(num)-1);
+                count[num]--;
             }
         }
-        int arr[]=new int[list.size()];
-        int i=0;
-        for(int num:list){
-            arr[i++]=num;
+        int res[]=new int[list.size()];
+        for(int i=0;i<list.size();i++){
+            res[i]=list.get(i);
         }
-        return arr;
+        return res;
     }
 }
