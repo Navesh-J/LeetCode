@@ -90,6 +90,7 @@ A collection of LeetCode questions.
 | [1791-richest-customer-wealth](https://github.com/Navesh-J/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1829-maximum-units-on-a-truck](https://github.com/Navesh-J/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1848-sum-of-unique-elements](https://github.com/Navesh-J/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Navesh-J/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Navesh-J/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Navesh-J/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/Navesh-J/LeetCode/tree/master/1899-count-items-matching-a-rule) |
@@ -801,6 +802,7 @@ A collection of LeetCode questions.
 | [0392-is-subsequence](https://github.com/Navesh-J/LeetCode/tree/master/0392-is-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Navesh-J/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1063-best-sightseeing-pair](https://github.com/Navesh-J/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Navesh-J/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Backtracking
 |  |
