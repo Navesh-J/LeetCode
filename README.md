@@ -148,6 +148,7 @@ A collection of LeetCode questions.
 | [2691-count-vowel-strings-in-ranges](https://github.com/Navesh-J/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Navesh-J/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Navesh-J/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Navesh-J/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/Navesh-J/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Navesh-J/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions.
 | [2634-minimum-common-value](https://github.com/Navesh-J/LeetCode/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Navesh-J/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Navesh-J/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Navesh-J/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navesh-J/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions.
 | [2551-apply-operations-to-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Navesh-J/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/Navesh-J/LeetCode/tree/master/2634-minimum-common-value) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Navesh-J/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Navesh-J/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Navesh-J/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
