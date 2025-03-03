@@ -116,6 +116,7 @@ A collection of LeetCode questions.
 | [2215-finding-3-digit-even-numbers](https://github.com/Navesh-J/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Navesh-J/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Navesh-J/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Navesh-J/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Navesh-J/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Navesh-J/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Navesh-J/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions.
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Navesh-J/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Navesh-J/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Navesh-J/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Navesh-J/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Navesh-J/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Navesh-J/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Navesh-J/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions.
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Navesh-J/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/Navesh-J/LeetCode/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/Navesh-J/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Navesh-J/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Navesh-J/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Navesh-J/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Navesh-J/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
