@@ -688,6 +688,7 @@ A collection of LeetCode questions.
 | [2448-count-number-of-bad-pairs](https://github.com/Navesh-J/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Navesh-J/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2630-alternating-digit-sum](https://github.com/Navesh-J/LeetCode/tree/master/2630-alternating-digit-sum) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Navesh-J/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2650-split-with-minimum-sum](https://github.com/Navesh-J/LeetCode/tree/master/2650-split-with-minimum-sum) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Navesh-J/LeetCode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2752-sum-multiples](https://github.com/Navesh-J/LeetCode/tree/master/2752-sum-multiples) |
