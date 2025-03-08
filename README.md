@@ -364,6 +364,7 @@ A collection of LeetCode questions.
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Navesh-J/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Navesh-J/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Navesh-J/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Navesh-J/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Navesh-J/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Navesh-J/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/Navesh-J/LeetCode/tree/master/2580-circular-sentence) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions.
 | [0567-permutation-in-string](https://github.com/Navesh-J/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Navesh-J/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1755-defuse-the-bomb](https://github.com/Navesh-J/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Navesh-J/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navesh-J/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Navesh-J/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Sorting
