@@ -484,6 +484,7 @@ A collection of LeetCode questions.
 | [0020-valid-parentheses](https://github.com/Navesh-J/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Navesh-J/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Navesh-J/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0937-online-stock-span](https://github.com/Navesh-J/LeetCode/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Navesh-J/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Navesh-J/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Navesh-J/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -871,6 +872,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Navesh-J/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0937-online-stock-span](https://github.com/Navesh-J/LeetCode/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Navesh-J/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Trie
 |  |
@@ -894,6 +896,7 @@ A collection of LeetCode questions.
 ## Design
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/Navesh-J/LeetCode/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Navesh-J/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1708-design-parking-system](https://github.com/Navesh-J/LeetCode/tree/master/1708-design-parking-system) |
 ## Rolling Hash
@@ -913,6 +916,7 @@ A collection of LeetCode questions.
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/Navesh-J/LeetCode/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Navesh-J/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Linked List
 |  |
