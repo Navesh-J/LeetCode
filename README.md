@@ -134,6 +134,7 @@ A collection of LeetCode questions.
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Navesh-J/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2433-best-poker-hand](https://github.com/Navesh-J/LeetCode/tree/master/2433-best-poker-hand) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Navesh-J/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2447-merge-similar-items](https://github.com/Navesh-J/LeetCode/tree/master/2447-merge-similar-items) |
 | [2448-count-number-of-bad-pairs](https://github.com/Navesh-J/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Navesh-J/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Navesh-J/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions.
 | [2427-first-letter-to-appear-twice](https://github.com/Navesh-J/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2433-best-poker-hand](https://github.com/Navesh-J/LeetCode/tree/master/2433-best-poker-hand) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Navesh-J/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2447-merge-similar-items](https://github.com/Navesh-J/LeetCode/tree/master/2447-merge-similar-items) |
 | [2448-count-number-of-bad-pairs](https://github.com/Navesh-J/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Navesh-J/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Navesh-J/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions.
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Navesh-J/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Navesh-J/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Navesh-J/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2447-merge-similar-items](https://github.com/Navesh-J/LeetCode/tree/master/2447-merge-similar-items) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Navesh-J/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Navesh-J/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Navesh-J/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -966,4 +969,8 @@ A collection of LeetCode questions.
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Navesh-J/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Navesh-J/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Ordered Set
+|  |
+| ------- |
+| [2447-merge-similar-items](https://github.com/Navesh-J/LeetCode/tree/master/2447-merge-similar-items) |
 <!---LeetCode Topics End-->
