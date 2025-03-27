@@ -166,6 +166,7 @@ A collection of LeetCode questions.
 | [2836-neither-minimum-nor-maximum](https://github.com/Navesh-J/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Navesh-J/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2881-split-strings-by-separator](https://github.com/Navesh-J/LeetCode/tree/master/2881-split-strings-by-separator) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Navesh-J/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Navesh-J/LeetCode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Navesh-J/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Navesh-J/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions.
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Navesh-J/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Navesh-J/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Navesh-J/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Navesh-J/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navesh-J/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions.
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Navesh-J/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Navesh-J/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Navesh-J/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Navesh-J/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Navesh-J/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/Navesh-J/LeetCode/tree/master/3321-type-of-triangle) |
 ## Heap (Priority Queue)
