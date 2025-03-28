@@ -148,6 +148,7 @@ A collection of LeetCode questions.
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Navesh-J/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Navesh-J/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Navesh-J/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Navesh-J/LeetCode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navesh-J/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Navesh-J/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions.
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Navesh-J/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Navesh-J/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Navesh-J/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2634-minimum-common-value](https://github.com/Navesh-J/LeetCode/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Navesh-J/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Navesh-J/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions.
 | [2465-shifting-letters-ii](https://github.com/Navesh-J/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Navesh-J/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/Navesh-J/LeetCode/tree/master/2580-circular-sentence) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Navesh-J/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Navesh-J/LeetCode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Navesh-J/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Navesh-J/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions.
 | [2433-best-poker-hand](https://github.com/Navesh-J/LeetCode/tree/master/2433-best-poker-hand) |
 | [2448-count-number-of-bad-pairs](https://github.com/Navesh-J/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Navesh-J/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Navesh-J/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navesh-J/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navesh-J/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navesh-J/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -796,6 +800,7 @@ A collection of LeetCode questions.
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navesh-J/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/Navesh-J/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Navesh-J/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Navesh-J/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Navesh-J/LeetCode/tree/master/2659-number-of-even-and-odd-bits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Navesh-J/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
