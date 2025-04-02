@@ -22,6 +22,7 @@ A collection of LeetCode questions.
 | [0217-contains-duplicate](https://github.com/Navesh-J/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Navesh-J/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Navesh-J/LeetCode/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Navesh-J/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Navesh-J/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Navesh-J/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Navesh-J/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Navesh-J/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Navesh-J/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Navesh-J/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Navesh-J/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Navesh-J/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Navesh-J/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Navesh-J/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Navesh-J/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Navesh-J/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -698,6 +701,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Navesh-J/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Navesh-J/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Navesh-J/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Navesh-J/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/Navesh-J/LeetCode/tree/master/0859-design-circular-deque) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Navesh-J/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -953,6 +957,7 @@ A collection of LeetCode questions.
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Navesh-J/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Navesh-J/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Design
 |  |
