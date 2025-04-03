@@ -174,6 +174,7 @@ A collection of LeetCode questions.
 | [2888-minimum-index-of-a-valid-split](https://github.com/Navesh-J/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3045-minimum-right-shifts-to-sort-the-array](https://github.com/Navesh-J/LeetCode/tree/master/3045-minimum-right-shifts-to-sort-the-array) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Navesh-J/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Navesh-J/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Navesh-J/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Navesh-J/LeetCode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3194-find-words-containing-character](https://github.com/Navesh-J/LeetCode/tree/master/3194-find-words-containing-character) |
