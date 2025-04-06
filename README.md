@@ -30,6 +30,7 @@ A collection of LeetCode questions.
 | [0347-top-k-frequent-elements](https://github.com/Navesh-J/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navesh-J/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Navesh-J/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Navesh-J/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Navesh-J/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Navesh-J/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions.
 | [0347-top-k-frequent-elements](https://github.com/Navesh-J/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navesh-J/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Navesh-J/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Navesh-J/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Navesh-J/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Navesh-J/LeetCode/tree/master/0455-assign-cookies) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions.
 | [0215-kth-largest-element-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Navesh-J/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Navesh-J/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Navesh-J/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Navesh-J/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Navesh-J/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/Navesh-J/LeetCode/tree/master/0948-sort-an-array) |
@@ -783,6 +786,7 @@ A collection of LeetCode questions.
 | [0349-intersection-of-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navesh-J/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Navesh-J/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Navesh-J/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/Navesh-J/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Navesh-J/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Navesh-J/LeetCode/tree/master/0792-binary-search) |
@@ -849,6 +853,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Navesh-J/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Navesh-J/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0898-transpose-matrix](https://github.com/Navesh-J/LeetCode/tree/master/0898-transpose-matrix) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Navesh-J/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navesh-J/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
