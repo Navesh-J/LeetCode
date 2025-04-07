@@ -35,6 +35,7 @@ A collection of LeetCode questions.
 | [0455-assign-cookies](https://github.com/Navesh-J/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Navesh-J/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Navesh-J/LeetCode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/Navesh-J/LeetCode/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/Navesh-J/LeetCode/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/Navesh-J/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Navesh-J/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions.
 | [0414-third-maximum-number](https://github.com/Navesh-J/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Navesh-J/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Navesh-J/LeetCode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/Navesh-J/LeetCode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/Navesh-J/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/Navesh-J/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Navesh-J/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions.
 | [0347-top-k-frequent-elements](https://github.com/Navesh-J/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Navesh-J/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Navesh-J/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Navesh-J/LeetCode/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/Navesh-J/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Navesh-J/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/Navesh-J/LeetCode/tree/master/0948-sort-an-array) |
