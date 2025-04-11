@@ -783,6 +783,7 @@ A collection of LeetCode questions.
 | [2752-sum-multiples](https://github.com/Navesh-J/LeetCode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Navesh-J/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Navesh-J/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2998-count-symmetric-integers](https://github.com/Navesh-J/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3055-maximum-odd-binary-number](https://github.com/Navesh-J/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Navesh-J/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Navesh-J/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -827,6 +828,7 @@ A collection of LeetCode questions.
 | [2215-finding-3-digit-even-numbers](https://github.com/Navesh-J/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Navesh-J/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Navesh-J/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2998-count-symmetric-integers](https://github.com/Navesh-J/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
