@@ -16,7 +16,7 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             long low=lower_bound(nums,i+1,nums.length-1,lower-nums[i]);
             long high=lower_bound(nums,i+1,nums.length-1,upper-nums[i]+1);
-            res+=1*(high-low);
+            res+=(high-low);
         }
         return res;
     }
