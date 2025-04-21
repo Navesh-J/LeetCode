@@ -713,6 +713,7 @@ A collection of LeetCode questions.
 | [0506-relative-ranks](https://github.com/Navesh-J/LeetCode/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/Navesh-J/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Navesh-J/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Navesh-J/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Navesh-J/LeetCode/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/Navesh-J/LeetCode/tree/master/1127-last-stone-weight) |
 | [1917-maximum-average-pass-ratio](https://github.com/Navesh-J/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -1019,6 +1020,7 @@ A collection of LeetCode questions.
 | [0225-implement-stack-using-queues](https://github.com/Navesh-J/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Navesh-J/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Navesh-J/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Navesh-J/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Navesh-J/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Navesh-J/LeetCode/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/Navesh-J/LeetCode/tree/master/0937-online-stock-span) |
@@ -1042,6 +1044,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Navesh-J/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Navesh-J/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Navesh-J/LeetCode/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Navesh-J/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Linked List
@@ -1098,6 +1101,7 @@ A collection of LeetCode questions.
 | [0199-binary-tree-right-side-view](https://github.com/Navesh-J/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Navesh-J/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Navesh-J/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Navesh-J/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2384-root-equals-sum-of-children](https://github.com/Navesh-J/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -1127,6 +1131,7 @@ A collection of LeetCode questions.
 | [0199-binary-tree-right-side-view](https://github.com/Navesh-J/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Navesh-J/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Navesh-J/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Navesh-J/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2384-root-equals-sum-of-children](https://github.com/Navesh-J/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -1136,4 +1141,8 @@ A collection of LeetCode questions.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Navesh-J/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Navesh-J/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Navesh-J/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Navesh-J/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
