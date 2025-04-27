@@ -214,6 +214,7 @@ A collection of LeetCode questions.
 | [3582-find-indices-of-stable-mountains](https://github.com/Navesh-J/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3632-button-with-longest-push-time](https://github.com/Navesh-J/LeetCode/tree/master/3632-button-with-longest-push-time) |
 | [3651-transformed-array](https://github.com/Navesh-J/LeetCode/tree/master/3651-transformed-array) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Navesh-J/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Navesh-J/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Navesh-J/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Navesh-J/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
