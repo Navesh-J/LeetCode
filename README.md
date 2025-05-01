@@ -444,6 +444,7 @@ A collection of LeetCode questions.
 | [3540-hash-divided-string](https://github.com/Navesh-J/LeetCode/tree/master/3540-hash-divided-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Navesh-J/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3617-find-the-original-typed-string-i](https://github.com/Navesh-J/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3684-substring-matching-pattern](https://github.com/Navesh-J/LeetCode/tree/master/3684-substring-matching-pattern) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Navesh-J/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting
 |  |
@@ -902,6 +903,7 @@ A collection of LeetCode questions.
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Navesh-J/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Navesh-J/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Navesh-J/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3684-substring-matching-pattern](https://github.com/Navesh-J/LeetCode/tree/master/3684-substring-matching-pattern) |
 ## Matrix
 |  |
 | ------- |
