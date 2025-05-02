@@ -83,6 +83,7 @@ A collection of LeetCode questions.
 | [1364-tuple-with-same-product](https://github.com/Navesh-J/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Navesh-J/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Navesh-J/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Navesh-J/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Navesh-J/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Navesh-J/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions.
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Navesh-J/LeetCode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1364-tuple-with-same-product](https://github.com/Navesh-J/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Navesh-J/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navesh-J/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/Navesh-J/LeetCode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/Navesh-J/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions.
 | [0415-add-strings](https://github.com/Navesh-J/LeetCode/tree/master/0415-add-strings) |
 | [0537-complex-number-multiplication](https://github.com/Navesh-J/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0898-transpose-matrix](https://github.com/Navesh-J/LeetCode/tree/master/0898-transpose-matrix) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Navesh-J/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1449-print-words-vertically](https://github.com/Navesh-J/LeetCode/tree/master/1449-print-words-vertically) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Navesh-J/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Navesh-J/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -911,6 +914,7 @@ A collection of LeetCode questions.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Navesh-J/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0898-transpose-matrix](https://github.com/Navesh-J/LeetCode/tree/master/0898-transpose-matrix) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Navesh-J/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Navesh-J/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navesh-J/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Navesh-J/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1972-rotating-the-box](https://github.com/Navesh-J/LeetCode/tree/master/1972-rotating-the-box) |
