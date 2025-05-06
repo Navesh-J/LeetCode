@@ -120,6 +120,7 @@ A collection of LeetCode questions.
 | [1944-truncate-sentence](https://github.com/Navesh-J/LeetCode/tree/master/1944-truncate-sentence) |
 | [1972-rotating-the-box](https://github.com/Navesh-J/LeetCode/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Navesh-J/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/Navesh-J/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2089-maximum-matrix-sum](https://github.com/Navesh-J/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Navesh-J/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Navesh-J/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions.
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Navesh-J/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1708-design-parking-system](https://github.com/Navesh-J/LeetCode/tree/master/1708-design-parking-system) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Navesh-J/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/Navesh-J/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Navesh-J/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Navesh-J/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Navesh-J/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
