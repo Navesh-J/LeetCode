@@ -366,6 +366,7 @@ A collection of LeetCode questions.
 | [0952-word-subsets](https://github.com/Navesh-J/LeetCode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Navesh-J/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Navesh-J/LeetCode/tree/master/0979-di-string-match) |
+| [1078-remove-outermost-parentheses](https://github.com/Navesh-J/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Navesh-J/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1197-parsing-a-boolean-expression](https://github.com/Navesh-J/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1205-defanging-an-ip-address](https://github.com/Navesh-J/LeetCode/tree/master/1205-defanging-an-ip-address) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions.
 | [0739-daily-temperatures](https://github.com/Navesh-J/LeetCode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Navesh-J/LeetCode/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Navesh-J/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1078-remove-outermost-parentheses](https://github.com/Navesh-J/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Navesh-J/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Navesh-J/LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Navesh-J/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
