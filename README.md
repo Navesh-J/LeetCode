@@ -101,6 +101,7 @@ A collection of LeetCode questions.
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Navesh-J/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Navesh-J/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/Navesh-J/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Navesh-J/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Navesh-J/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/Navesh-J/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Navesh-J/LeetCode/tree/master/1651-shuffle-string) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions.
 | [1168-duplicate-zeros](https://github.com/Navesh-J/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navesh-J/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Navesh-J/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Navesh-J/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/Navesh-J/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/Navesh-J/LeetCode/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Navesh-J/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions.
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Navesh-J/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Navesh-J/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navesh-J/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Navesh-J/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Navesh-J/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1752-arithmetic-subarrays](https://github.com/Navesh-J/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Navesh-J/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -868,6 +871,7 @@ A collection of LeetCode questions.
 | [0882-peak-index-in-a-mountain-array](https://github.com/Navesh-J/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Navesh-J/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navesh-J/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Navesh-J/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Navesh-J/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navesh-J/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -955,6 +959,7 @@ A collection of LeetCode questions.
 | [1477-product-of-the-last-k-numbers](https://github.com/Navesh-J/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Navesh-J/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Navesh-J/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Navesh-J/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Navesh-J/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Navesh-J/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Navesh-J/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
