@@ -415,6 +415,7 @@ A collection of LeetCode questions.
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Navesh-J/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/Navesh-J/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Navesh-J/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2154-minimum-moves-to-convert-string](https://github.com/Navesh-J/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Navesh-J/LeetCode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Navesh-J/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions.
 | [2089-maximum-matrix-sum](https://github.com/Navesh-J/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Navesh-J/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Navesh-J/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2154-minimum-moves-to-convert-string](https://github.com/Navesh-J/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Navesh-J/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Navesh-J/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2329-maximum-product-after-k-increments](https://github.com/Navesh-J/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
