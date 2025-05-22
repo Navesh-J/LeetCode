@@ -335,6 +335,7 @@ A collection of LeetCode questions.
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Navesh-J/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Navesh-J/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Navesh-J/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Navesh-J/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## String
 |  |
 | ------- |
@@ -464,6 +465,7 @@ A collection of LeetCode questions.
 | [3617-find-the-original-typed-string-i](https://github.com/Navesh-J/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3684-substring-matching-pattern](https://github.com/Navesh-J/LeetCode/tree/master/3684-substring-matching-pattern) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Navesh-J/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Navesh-J/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Counting
 |  |
 | ------- |
@@ -508,6 +510,7 @@ A collection of LeetCode questions.
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navesh-J/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navesh-J/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Navesh-J/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Navesh-J/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -671,6 +674,7 @@ A collection of LeetCode questions.
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Navesh-J/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/Navesh-J/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Navesh-J/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Navesh-J/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -750,6 +754,7 @@ A collection of LeetCode questions.
 | [3226-minimum-number-game](https://github.com/Navesh-J/LeetCode/tree/master/3226-minimum-number-game) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Navesh-J/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/Navesh-J/LeetCode/tree/master/3321-type-of-triangle) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Navesh-J/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
