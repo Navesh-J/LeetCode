@@ -865,6 +865,7 @@ A collection of LeetCode questions.
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Navesh-J/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/Navesh-J/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3055-maximum-odd-binary-number](https://github.com/Navesh-J/LeetCode/tree/master/3055-maximum-odd-binary-number) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Navesh-J/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Navesh-J/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Navesh-J/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3321-type-of-triangle](https://github.com/Navesh-J/LeetCode/tree/master/3321-type-of-triangle) |
