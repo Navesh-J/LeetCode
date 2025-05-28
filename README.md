@@ -876,6 +876,7 @@ A collection of LeetCode questions.
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Navesh-J/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Navesh-J/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Navesh-J/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3879-find-minimum-log-transportation-cost](https://github.com/Navesh-J/LeetCode/tree/master/3879-find-minimum-log-transportation-cost) |
 ## Binary Search
 |  |
 | ------- |
