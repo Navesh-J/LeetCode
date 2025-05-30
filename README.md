@@ -108,6 +108,7 @@ A collection of LeetCode questions.
 | [1651-shuffle-string](https://github.com/Navesh-J/LeetCode/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/Navesh-J/LeetCode/tree/master/1656-count-good-triplets) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Navesh-J/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1720-crawler-log-folder](https://github.com/Navesh-J/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1752-arithmetic-subarrays](https://github.com/Navesh-J/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/Navesh-J/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Navesh-J/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions.
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Navesh-J/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/Navesh-J/LeetCode/tree/master/1651-shuffle-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Navesh-J/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1720-crawler-log-folder](https://github.com/Navesh-J/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Navesh-J/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Navesh-J/LeetCode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Navesh-J/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions.
 | [1197-parsing-a-boolean-expression](https://github.com/Navesh-J/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Navesh-J/LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Navesh-J/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1720-crawler-log-folder](https://github.com/Navesh-J/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Navesh-J/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Navesh-J/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Navesh-J/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
