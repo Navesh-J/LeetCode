@@ -210,6 +210,7 @@ A collection of LeetCode questions.
 | [3226-minimum-number-game](https://github.com/Navesh-J/LeetCode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/Navesh-J/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navesh-J/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Navesh-J/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Navesh-J/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Navesh-J/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Navesh-J/LeetCode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions.
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Navesh-J/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Navesh-J/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Navesh-J/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Navesh-J/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Stack
 |  |
 | ------- |
@@ -912,6 +914,7 @@ A collection of LeetCode questions.
 | [2634-minimum-common-value](https://github.com/Navesh-J/LeetCode/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Navesh-J/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Navesh-J/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Navesh-J/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navesh-J/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Enumeration
 |  |
@@ -925,6 +928,7 @@ A collection of LeetCode questions.
 | [2442-number-of-arithmetic-triplets](https://github.com/Navesh-J/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Navesh-J/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/Navesh-J/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Navesh-J/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
