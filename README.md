@@ -475,6 +475,7 @@ A collection of LeetCode questions.
 | [3617-find-the-original-typed-string-i](https://github.com/Navesh-J/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3684-substring-matching-pattern](https://github.com/Navesh-J/LeetCode/tree/master/3684-substring-matching-pattern) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Navesh-J/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/Navesh-J/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Navesh-J/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Navesh-J/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -611,6 +612,7 @@ A collection of LeetCode questions.
 | [2470-removing-stars-from-a-string](https://github.com/Navesh-J/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Navesh-J/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/Navesh-J/LeetCode/tree/master/3447-clear-digits) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/Navesh-J/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Simulation
 |  |
 | ------- |
@@ -655,6 +657,7 @@ A collection of LeetCode questions.
 | [3651-transformed-array](https://github.com/Navesh-J/LeetCode/tree/master/3651-transformed-array) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Navesh-J/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Navesh-J/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/Navesh-J/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Greedy
 |  |
 | ------- |
