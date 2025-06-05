@@ -439,6 +439,7 @@ A collection of LeetCode questions.
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Navesh-J/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Navesh-J/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Navesh-J/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Navesh-J/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Navesh-J/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Navesh-J/LeetCode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Navesh-J/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions.
 | [2300-construct-string-with-repeat-limit](https://github.com/Navesh-J/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Navesh-J/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2329-maximum-product-after-k-increments](https://github.com/Navesh-J/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Navesh-J/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Navesh-J/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Navesh-J/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Navesh-J/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -929,6 +931,7 @@ A collection of LeetCode questions.
 | [2037-count-square-sum-triples](https://github.com/Navesh-J/LeetCode/tree/master/2037-count-square-sum-triples) |
 | [2122-count-special-quadruplets](https://github.com/Navesh-J/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Navesh-J/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Navesh-J/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Navesh-J/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Navesh-J/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/Navesh-J/LeetCode/tree/master/2998-count-symmetric-integers) |
