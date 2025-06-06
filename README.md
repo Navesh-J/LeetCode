@@ -158,6 +158,7 @@ A collection of LeetCode questions.
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/Navesh-J/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Navesh-J/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Navesh-J/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navesh-J/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Navesh-J/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2386-min-max-game](https://github.com/Navesh-J/LeetCode/tree/master/2386-min-max-game) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions.
 | [2300-construct-string-with-repeat-limit](https://github.com/Navesh-J/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Navesh-J/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Navesh-J/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Navesh-J/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navesh-J/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Navesh-J/LeetCode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Navesh-J/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions.
 | [0643-maximum-average-subarray-i](https://github.com/Navesh-J/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Navesh-J/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1755-defuse-the-bomb](https://github.com/Navesh-J/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Navesh-J/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Navesh-J/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Navesh-J/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
