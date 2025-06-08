@@ -1103,6 +1103,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Navesh-J/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Navesh-J/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Navesh-J/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Navesh-J/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Database
@@ -1224,6 +1225,7 @@ A collection of LeetCode questions.
 | [0199-binary-tree-right-side-view](https://github.com/Navesh-J/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Navesh-J/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Navesh-J/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/Navesh-J/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Navesh-J/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
