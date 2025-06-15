@@ -686,6 +686,7 @@ A collection of LeetCode questions.
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Navesh-J/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Navesh-J/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1502-construct-k-palindrome-strings](https://github.com/Navesh-J/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Navesh-J/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1829-maximum-units-on-a-truck](https://github.com/Navesh-J/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1917-maximum-average-pass-ratio](https://github.com/Navesh-J/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Navesh-J/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -874,6 +875,7 @@ A collection of LeetCode questions.
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Navesh-J/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Navesh-J/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Navesh-J/LeetCode/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Navesh-J/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Navesh-J/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/Navesh-J/LeetCode/tree/master/1674-minimum-operations-to-make-array-equal) |
