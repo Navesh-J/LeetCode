@@ -211,6 +211,7 @@ A collection of LeetCode questions.
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Navesh-J/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3226-minimum-number-game](https://github.com/Navesh-J/LeetCode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/Navesh-J/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Navesh-J/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navesh-J/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Navesh-J/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Navesh-J/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -713,6 +714,7 @@ A collection of LeetCode questions.
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Navesh-J/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Navesh-J/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/Navesh-J/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Navesh-J/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Navesh-J/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Navesh-J/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Navesh-J/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -794,6 +796,7 @@ A collection of LeetCode questions.
 | [2836-neither-minimum-nor-maximum](https://github.com/Navesh-J/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Navesh-J/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3226-minimum-number-game](https://github.com/Navesh-J/LeetCode/tree/master/3226-minimum-number-game) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Navesh-J/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Navesh-J/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/Navesh-J/LeetCode/tree/master/3321-type-of-triangle) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Navesh-J/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
