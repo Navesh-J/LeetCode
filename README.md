@@ -163,6 +163,7 @@ A collection of LeetCode questions.
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navesh-J/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Navesh-J/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2386-min-max-game](https://github.com/Navesh-J/LeetCode/tree/master/2386-min-max-game) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Navesh-J/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Navesh-J/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Navesh-J/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2433-best-poker-hand](https://github.com/Navesh-J/LeetCode/tree/master/2433-best-poker-hand) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions.
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Navesh-J/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2329-maximum-product-after-k-increments](https://github.com/Navesh-J/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Navesh-J/LeetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Navesh-J/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Navesh-J/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Navesh-J/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Navesh-J/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -783,6 +785,7 @@ A collection of LeetCode questions.
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Navesh-J/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Navesh-J/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Navesh-J/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Navesh-J/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Navesh-J/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2447-merge-similar-items](https://github.com/Navesh-J/LeetCode/tree/master/2447-merge-similar-items) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Navesh-J/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
