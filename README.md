@@ -349,6 +349,7 @@ A collection of LeetCode questions.
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Navesh-J/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Navesh-J/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Navesh-J/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Navesh-J/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Navesh-J/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Navesh-J/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -486,6 +487,7 @@ A collection of LeetCode questions.
 | [3617-find-the-original-typed-string-i](https://github.com/Navesh-J/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3684-substring-matching-pattern](https://github.com/Navesh-J/LeetCode/tree/master/3684-substring-matching-pattern) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Navesh-J/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Navesh-J/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Navesh-J/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Navesh-J/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Navesh-J/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions.
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navesh-J/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Navesh-J/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Navesh-J/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Navesh-J/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Navesh-J/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Navesh-J/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
@@ -918,6 +921,7 @@ A collection of LeetCode questions.
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Navesh-J/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navesh-J/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Navesh-J/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Navesh-J/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Navesh-J/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navesh-J/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Navesh-J/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
