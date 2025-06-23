@@ -239,6 +239,7 @@ A collection of LeetCode questions.
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Navesh-J/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navesh-J/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Navesh-J/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Navesh-J/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -353,6 +354,7 @@ A collection of LeetCode questions.
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Navesh-J/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Navesh-J/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Navesh-J/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Navesh-J/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
 |  |
 | ------- |
@@ -545,6 +547,7 @@ A collection of LeetCode questions.
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Navesh-J/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Navesh-J/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Navesh-J/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Navesh-J/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -933,6 +936,7 @@ A collection of LeetCode questions.
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navesh-J/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Navesh-J/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/Navesh-J/LeetCode/tree/master/3879-find-minimum-log-transportation-cost) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Navesh-J/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -1217,6 +1221,7 @@ A collection of LeetCode questions.
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Navesh-J/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Navesh-J/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/Navesh-J/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Ordered Set
 |  |
 | ------- |
