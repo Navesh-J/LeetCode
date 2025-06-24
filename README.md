@@ -157,6 +157,7 @@ A collection of LeetCode questions.
 | [2308-divide-array-into-equal-pairs](https://github.com/Navesh-J/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Navesh-J/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/Navesh-J/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Navesh-J/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Navesh-J/LeetCode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions.
 | [2232-adding-spaces-to-a-string](https://github.com/Navesh-J/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Navesh-J/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Navesh-J/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Navesh-J/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Navesh-J/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/Navesh-J/LeetCode/tree/master/2481-strictly-palindromic-number) |
