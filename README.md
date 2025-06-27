@@ -175,6 +175,7 @@ A collection of LeetCode questions.
 | [2480-find-subarrays-with-equal-sum](https://github.com/Navesh-J/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Navesh-J/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Navesh-J/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Navesh-J/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Navesh-J/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Navesh-J/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -1003,6 +1004,7 @@ A collection of LeetCode questions.
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Navesh-J/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2427-first-letter-to-appear-twice](https://github.com/Navesh-J/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Navesh-J/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Navesh-J/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Navesh-J/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Navesh-J/LeetCode/tree/master/2659-number-of-even-and-odd-bits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
