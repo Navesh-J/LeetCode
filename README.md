@@ -142,6 +142,7 @@ A collection of LeetCode questions.
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Navesh-J/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Navesh-J/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Navesh-J/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Navesh-J/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Navesh-J/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Navesh-J/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions.
 | [2159-two-out-of-three](https://github.com/Navesh-J/LeetCode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Navesh-J/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Navesh-J/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Navesh-J/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2226-rings-and-rods](https://github.com/Navesh-J/LeetCode/tree/master/2226-rings-and-rods) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Navesh-J/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions.
 | [1829-maximum-units-on-a-truck](https://github.com/Navesh-J/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1970-sorting-the-sentence](https://github.com/Navesh-J/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Navesh-J/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Navesh-J/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Navesh-J/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Navesh-J/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Navesh-J/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -837,6 +840,7 @@ A collection of LeetCode questions.
 | [1127-last-stone-weight](https://github.com/Navesh-J/LeetCode/tree/master/1127-last-stone-weight) |
 | [1917-maximum-average-pass-ratio](https://github.com/Navesh-J/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Navesh-J/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Navesh-J/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Navesh-J/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/Navesh-J/LeetCode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Navesh-J/LeetCode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
