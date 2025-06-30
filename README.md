@@ -43,6 +43,7 @@ A collection of LeetCode questions.
 | [0525-contiguous-array](https://github.com/Navesh-J/LeetCode/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/Navesh-J/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Navesh-J/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/Navesh-J/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Navesh-J/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Navesh-J/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Navesh-J/LeetCode/tree/master/0682-baseball-game) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions.
 | [0525-contiguous-array](https://github.com/Navesh-J/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Navesh-J/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Navesh-J/LeetCode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Navesh-J/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Navesh-J/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/Navesh-J/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0782-jewels-and-stones](https://github.com/Navesh-J/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions.
 | [0347-top-k-frequent-elements](https://github.com/Navesh-J/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Navesh-J/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Navesh-J/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/Navesh-J/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Navesh-J/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Navesh-J/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Navesh-J/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -747,6 +750,7 @@ A collection of LeetCode questions.
 | [0239-sliding-window-maximum](https://github.com/Navesh-J/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Navesh-J/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Navesh-J/LeetCode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Navesh-J/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Navesh-J/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Navesh-J/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1755-defuse-the-bomb](https://github.com/Navesh-J/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -778,6 +782,7 @@ A collection of LeetCode questions.
 | [0455-assign-cookies](https://github.com/Navesh-J/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Navesh-J/LeetCode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/Navesh-J/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/Navesh-J/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Navesh-J/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Navesh-J/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Navesh-J/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
