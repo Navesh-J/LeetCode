@@ -8,10 +8,8 @@ class Solution {
         for(int num:nums){
             int count=0;
             if(map.containsKey(num+1)){
-                count+=map.get(num+1);
+                count+=map.get(num+1)+map.get(num);;
             }
-            if(count !=0)
-                count+=map.get(num);
             max=Math.max(max,count);
         }
         return max;
