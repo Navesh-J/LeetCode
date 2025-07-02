@@ -174,6 +174,7 @@ A collection of LeetCode questions.
 | [2442-number-of-arithmetic-triplets](https://github.com/Navesh-J/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/Navesh-J/LeetCode/tree/master/2447-merge-similar-items) |
 | [2448-count-number-of-bad-pairs](https://github.com/Navesh-J/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/Navesh-J/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2465-shifting-letters-ii](https://github.com/Navesh-J/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Navesh-J/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Navesh-J/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -1047,6 +1048,7 @@ A collection of LeetCode questions.
 | [2089-maximum-matrix-sum](https://github.com/Navesh-J/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Navesh-J/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Navesh-J/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/Navesh-J/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Navesh-J/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Navesh-J/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Prefix Sum
