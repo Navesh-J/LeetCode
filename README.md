@@ -690,6 +690,7 @@ A collection of LeetCode questions.
 | [3447-clear-digits](https://github.com/Navesh-J/LeetCode/tree/master/3447-clear-digits) |
 | [3540-hash-divided-string](https://github.com/Navesh-J/LeetCode/tree/master/3540-hash-divided-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navesh-J/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Navesh-J/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3651-transformed-array](https://github.com/Navesh-J/LeetCode/tree/master/3651-transformed-array) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Navesh-J/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Navesh-J/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -946,6 +947,7 @@ A collection of LeetCode questions.
 | [3515-find-if-digit-game-can-be-won](https://github.com/Navesh-J/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Navesh-J/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navesh-J/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Navesh-J/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Navesh-J/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Navesh-J/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Navesh-J/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1025,6 +1027,7 @@ A collection of LeetCode questions.
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Navesh-J/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Navesh-J/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Navesh-J/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Navesh-J/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String Matching
 |  |
 | ------- |
@@ -1092,6 +1095,7 @@ A collection of LeetCode questions.
 | [0234-palindrome-linked-list](https://github.com/Navesh-J/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/Navesh-J/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Navesh-J/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Navesh-J/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
