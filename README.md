@@ -130,6 +130,7 @@ A collection of LeetCode questions.
 | [1944-truncate-sentence](https://github.com/Navesh-J/LeetCode/tree/master/1944-truncate-sentence) |
 | [1972-rotating-the-box](https://github.com/Navesh-J/LeetCode/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Navesh-J/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Navesh-J/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/Navesh-J/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2089-maximum-matrix-sum](https://github.com/Navesh-J/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Navesh-J/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions.
 | [1848-sum-of-unique-elements](https://github.com/Navesh-J/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Navesh-J/LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Navesh-J/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Navesh-J/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Navesh-J/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Navesh-J/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Navesh-J/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -1196,6 +1198,7 @@ A collection of LeetCode questions.
 | [0937-online-stock-span](https://github.com/Navesh-J/LeetCode/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Navesh-J/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1708-design-parking-system](https://github.com/Navesh-J/LeetCode/tree/master/1708-design-parking-system) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Navesh-J/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Rolling Hash
 |  |
 | ------- |
