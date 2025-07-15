@@ -493,6 +493,7 @@ A collection of LeetCode questions.
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Navesh-J/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Navesh-J/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Navesh-J/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3396-valid-word](https://github.com/Navesh-J/LeetCode/tree/master/3396-valid-word) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/Navesh-J/LeetCode/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Navesh-J/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Navesh-J/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
