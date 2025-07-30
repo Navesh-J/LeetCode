@@ -1,19 +1,19 @@
 class Solution {
     public int longestSubarray(int[] nums) {
-        int max=0,count=0,streak=0;
+        int max=0;
         for(int num:nums){
-            if(num>max){
-                max=num;
-            }
+            max=Math.max(max,num);
         }
+        int res=0,count=0;
         for(int num:nums){
-            if(num==max)
-            count++;
-            if(num!=max){
+            if(num == max){
+                count++;
+            }
+            else{
                 count=0;
             }
-            streak=Math.max(count,streak);
+            res=Math.max(res,count);
         }
-        return streak;
+        return res;
     }
 }
