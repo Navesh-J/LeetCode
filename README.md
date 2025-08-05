@@ -245,6 +245,7 @@ A collection of LeetCode questions.
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Navesh-J/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Navesh-J/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Navesh-J/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/Navesh-J/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navesh-J/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Navesh-J/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Navesh-J/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions.
 | [3651-transformed-array](https://github.com/Navesh-J/LeetCode/tree/master/3651-transformed-array) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Navesh-J/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Navesh-J/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Navesh-J/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Navesh-J/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Greedy
 |  |
@@ -988,6 +990,7 @@ A collection of LeetCode questions.
 | [2699-count-the-number-of-fair-pairs](https://github.com/Navesh-J/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Navesh-J/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navesh-J/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Navesh-J/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -1260,6 +1263,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [2447-merge-similar-items](https://github.com/Navesh-J/LeetCode/tree/master/2447-merge-similar-items) |
+| [3790-fruits-into-baskets-ii](https://github.com/Navesh-J/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Tree
 |  |
 | ------- |
@@ -1329,4 +1333,8 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Navesh-J/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Navesh-J/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
