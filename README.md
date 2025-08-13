@@ -902,6 +902,7 @@ A collection of LeetCode questions.
 | [0231-power-of-two](https://github.com/Navesh-J/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Navesh-J/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Navesh-J/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Navesh-J/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Navesh-J/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Navesh-J/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Navesh-J/LeetCode/tree/master/0415-add-strings) |
@@ -1105,6 +1106,7 @@ A collection of LeetCode questions.
 | [0206-reverse-linked-list](https://github.com/Navesh-J/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Navesh-J/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Navesh-J/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Navesh-J/LeetCode/tree/master/0326-power-of-three) |
 | [1197-parsing-a-boolean-expression](https://github.com/Navesh-J/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Navesh-J/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Navesh-J/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
