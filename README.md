@@ -223,6 +223,7 @@ A collection of LeetCode questions.
 | [3227-find-missing-and-repeated-values](https://github.com/Navesh-J/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Navesh-J/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navesh-J/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Navesh-J/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Navesh-J/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Navesh-J/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Navesh-J/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
