@@ -487,6 +487,7 @@ A collection of LeetCode questions.
 | [2691-count-vowel-strings-in-ranges](https://github.com/Navesh-J/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Navesh-J/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2881-split-strings-by-separator](https://github.com/Navesh-J/LeetCode/tree/master/2881-split-strings-by-separator) |
+| [2887-sort-vowels-in-a-string](https://github.com/Navesh-J/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Navesh-J/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3055-maximum-odd-binary-number](https://github.com/Navesh-J/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Navesh-J/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions.
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Navesh-J/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Navesh-J/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Navesh-J/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2887-sort-vowels-in-a-string](https://github.com/Navesh-J/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Navesh-J/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3226-minimum-number-game](https://github.com/Navesh-J/LeetCode/tree/master/3226-minimum-number-game) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Navesh-J/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
