@@ -505,6 +505,7 @@ A collection of LeetCode questions.
 | [3447-clear-digits](https://github.com/Navesh-J/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Navesh-J/LeetCode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Navesh-J/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/Navesh-J/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3540-hash-divided-string](https://github.com/Navesh-J/LeetCode/tree/master/3540-hash-divided-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Navesh-J/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3617-find-the-original-typed-string-i](https://github.com/Navesh-J/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
@@ -963,6 +964,7 @@ A collection of LeetCode questions.
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Navesh-J/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Navesh-J/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/Navesh-J/LeetCode/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/Navesh-J/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Navesh-J/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Navesh-J/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Navesh-J/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -1105,6 +1107,7 @@ A collection of LeetCode questions.
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Navesh-J/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Navesh-J/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3462-vowels-game-in-a-string](https://github.com/Navesh-J/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -1349,4 +1352,8 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Navesh-J/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Navesh-J/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
