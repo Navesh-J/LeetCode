@@ -722,6 +722,7 @@ A collection of LeetCode questions.
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Navesh-J/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Navesh-J/LeetCode/tree/master/0979-di-string-match) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Navesh-J/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1033-broken-calculator](https://github.com/Navesh-J/LeetCode/tree/master/1033-broken-calculator) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Navesh-J/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Navesh-J/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Navesh-J/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -922,6 +923,7 @@ A collection of LeetCode questions.
 | [0728-self-dividing-numbers](https://github.com/Navesh-J/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Navesh-J/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0944-smallest-range-i](https://github.com/Navesh-J/LeetCode/tree/master/0944-smallest-range-i) |
+| [1033-broken-calculator](https://github.com/Navesh-J/LeetCode/tree/master/1033-broken-calculator) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Navesh-J/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Navesh-J/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Navesh-J/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
