@@ -33,6 +33,7 @@ A collection of LeetCode questions.
 | [0229-majority-element-ii](https://github.com/Navesh-J/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Navesh-J/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Navesh-J/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Navesh-J/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Navesh-J/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Navesh-J/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -1000,6 +1001,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Navesh-J/LeetCode/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Navesh-J/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Navesh-J/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navesh-J/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1085,6 +1087,7 @@ A collection of LeetCode questions.
 | [0048-rotate-image](https://github.com/Navesh-J/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Navesh-J/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Navesh-J/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Navesh-J/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Navesh-J/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0898-transpose-matrix](https://github.com/Navesh-J/LeetCode/tree/master/0898-transpose-matrix) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Navesh-J/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -1175,6 +1178,7 @@ A collection of LeetCode questions.
 | [0169-majority-element](https://github.com/Navesh-J/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Navesh-J/LeetCode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Navesh-J/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Navesh-J/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Navesh-J/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Navesh-J/LeetCode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Navesh-J/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
