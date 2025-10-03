@@ -13,6 +13,7 @@ A collection of LeetCode questions.
 | [0048-rotate-image](https://github.com/Navesh-J/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Navesh-J/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Navesh-J/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Navesh-J/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Navesh-J/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Navesh-J/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Navesh-J/LeetCode/tree/master/0078-subsets) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Navesh-J/LeetCode/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/Navesh-J/LeetCode/tree/master/0415-add-strings) |
 | [0537-complex-number-multiplication](https://github.com/Navesh-J/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0682-baseball-game](https://github.com/Navesh-J/LeetCode/tree/master/0682-baseball-game) |
@@ -1081,6 +1083,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Navesh-J/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Navesh-J/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Navesh-J/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Navesh-J/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0898-transpose-matrix](https://github.com/Navesh-J/LeetCode/tree/master/0898-transpose-matrix) |
