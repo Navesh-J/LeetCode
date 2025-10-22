@@ -20,7 +20,7 @@ class Solution {
         return list;
     }
     private void preorder(TreeNode root,List<Integer> list){
-        if(root != null){
+        if(root!=null){
             list.add(root.val);
             preorder(root.left,list);
             preorder(root.right,list);
