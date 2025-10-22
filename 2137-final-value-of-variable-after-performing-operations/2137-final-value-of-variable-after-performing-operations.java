@@ -1,14 +1,14 @@
 class Solution {
-    private int operation(String op){
-        if(op.equals("--X") || op.equals("X--"))
-        return -1;
-        return 1;
-    }
     public int finalValueAfterOperations(String[] operations) {
-        int x=0;
-        for(String op:operations){
-            x+=operation(op);
+        int res=0;
+        for(String s:operations){
+            res = evaluate(s,res);
         }
-        return x;
+        return res;
+    }
+    private int evaluate(String str,int n){
+        if(str.contains("++"))
+            return n+1;
+        return n-1;
     }
 }
