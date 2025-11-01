@@ -243,6 +243,7 @@ A collection of LeetCode questions.
 | [3429-special-array-i](https://github.com/Navesh-J/LeetCode/tree/master/3429-special-array-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Navesh-J/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Navesh-J/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Navesh-J/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Navesh-J/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Navesh-J/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Navesh-J/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions.
 | [3408-count-the-number-of-special-characters-i](https://github.com/Navesh-J/LeetCode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Navesh-J/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Navesh-J/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Navesh-J/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Navesh-J/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Navesh-J/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Navesh-J/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -1300,6 +1302,7 @@ A collection of LeetCode questions.
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Navesh-J/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Navesh-J/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Navesh-J/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Navesh-J/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Combinatorics
 |  |
 | ------- |
