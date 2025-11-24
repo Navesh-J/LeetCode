@@ -83,6 +83,7 @@ A collection of LeetCode questions.
 | [1019-squares-of-a-sorted-array](https://github.com/Navesh-J/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Navesh-J/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1063-best-sightseeing-pair](https://github.com/Navesh-J/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/Navesh-J/LeetCode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Navesh-J/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/Navesh-J/LeetCode/tree/master/1127-last-stone-weight) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Navesh-J/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -1061,6 +1062,7 @@ A collection of LeetCode questions.
 | [0371-sum-of-two-integers](https://github.com/Navesh-J/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/Navesh-J/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Navesh-J/LeetCode/tree/master/0476-number-complement) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/Navesh-J/LeetCode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Navesh-J/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Navesh-J/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Navesh-J/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
