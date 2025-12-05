@@ -1350,6 +1350,7 @@ A collection of LeetCode questions.
 | [0226-invert-binary-tree](https://github.com/Navesh-J/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Navesh-J/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Navesh-J/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Navesh-J/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Navesh-J/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2384-root-equals-sum-of-children](https://github.com/Navesh-J/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -1387,6 +1388,7 @@ A collection of LeetCode questions.
 | [0226-invert-binary-tree](https://github.com/Navesh-J/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Navesh-J/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Navesh-J/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Navesh-J/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Navesh-J/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2384-root-equals-sum-of-children](https://github.com/Navesh-J/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
@@ -1403,6 +1405,7 @@ A collection of LeetCode questions.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Navesh-J/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Navesh-J/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Segment Tree
 |  |
