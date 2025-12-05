@@ -6,5 +6,7 @@ SELECT
     sum(amount) as trans_total_amount,
     sum(case when state = 'approved' then amount else 0 end) as approved_total_amount
 FROM Transactions
-GROUP BY TO_CHAR(trans_date,'YYYY-MM'),country;
+GROUP BY 
+    TO_CHAR(trans_date,'YYYY-MM'),
+    country;
 
