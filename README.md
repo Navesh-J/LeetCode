@@ -79,6 +79,7 @@ A collection of LeetCode questions.
 | [0958-sort-array-by-parity-ii](https://github.com/Navesh-J/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0978-valid-mountain-array](https://github.com/Navesh-J/LeetCode/tree/master/0978-valid-mountain-array) |
 | [0979-di-string-match](https://github.com/Navesh-J/LeetCode/tree/master/0979-di-string-match) |
+| [0981-delete-columns-to-make-sorted](https://github.com/Navesh-J/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Navesh-J/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1018-largest-perimeter-triangle](https://github.com/Navesh-J/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Navesh-J/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions.
 | [0952-word-subsets](https://github.com/Navesh-J/LeetCode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Navesh-J/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Navesh-J/LeetCode/tree/master/0979-di-string-match) |
+| [0981-delete-columns-to-make-sorted](https://github.com/Navesh-J/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/Navesh-J/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Navesh-J/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1197-parsing-a-boolean-expression](https://github.com/Navesh-J/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
