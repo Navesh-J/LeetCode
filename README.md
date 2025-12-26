@@ -245,6 +245,7 @@ A collection of LeetCode questions.
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Navesh-J/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Navesh-J/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Navesh-J/LeetCode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/Navesh-J/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Navesh-J/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Navesh-J/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/Navesh-J/LeetCode/tree/master/3429-special-array-i) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions.
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Navesh-J/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Navesh-J/LeetCode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Navesh-J/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/Navesh-J/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Navesh-J/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Navesh-J/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Navesh-J/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -879,6 +881,7 @@ A collection of LeetCode questions.
 | [3291-find-if-array-can-be-sorted](https://github.com/Navesh-J/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/Navesh-J/LeetCode/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Navesh-J/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/Navesh-J/LeetCode/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Navesh-J/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Navesh-J/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Heap (Priority Queue)
