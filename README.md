@@ -17,6 +17,7 @@ A collection of LeetCode questions.
 | [0049-group-anagrams](https://github.com/Navesh-J/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Navesh-J/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Navesh-J/LeetCode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Navesh-J/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Navesh-J/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Navesh-J/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Navesh-J/LeetCode/tree/master/0078-subsets) |
@@ -944,6 +945,7 @@ A collection of LeetCode questions.
 | [0012-integer-to-roman](https://github.com/Navesh-J/LeetCode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Navesh-J/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Navesh-J/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Navesh-J/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Navesh-J/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Navesh-J/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Navesh-J/LeetCode/tree/master/0231-power-of-two) |
