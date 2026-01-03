@@ -84,6 +84,7 @@ A collection of LeetCode questions.
 | [0979-di-string-match](https://github.com/Navesh-J/LeetCode/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Navesh-J/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Navesh-J/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Navesh-J/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Navesh-J/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Navesh-J/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Navesh-J/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions.
 | [0889-buddy-strings](https://github.com/Navesh-J/LeetCode/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Navesh-J/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Navesh-J/LeetCode/tree/master/0952-word-subsets) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Navesh-J/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Navesh-J/LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Navesh-J/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Navesh-J/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
