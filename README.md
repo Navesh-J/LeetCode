@@ -99,6 +99,7 @@ A collection of LeetCode questions.
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Navesh-J/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Navesh-J/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1256-rank-transform-of-an-array](https://github.com/Navesh-J/LeetCode/tree/master/1256-rank-transform-of-an-array) |
+| [1284-four-divisors](https://github.com/Navesh-J/LeetCode/tree/master/1284-four-divisors) |
 | [1293-three-consecutive-odds](https://github.com/Navesh-J/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Navesh-J/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Navesh-J/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -968,6 +969,7 @@ A collection of LeetCode questions.
 | [1018-largest-perimeter-triangle](https://github.com/Navesh-J/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/Navesh-J/LeetCode/tree/master/1033-broken-calculator) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Navesh-J/LeetCode/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1284-four-divisors](https://github.com/Navesh-J/LeetCode/tree/master/1284-four-divisors) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Navesh-J/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Navesh-J/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Navesh-J/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
