@@ -1094,6 +1094,7 @@ A collection of LeetCode questions.
 | [0461-hamming-distance](https://github.com/Navesh-J/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Navesh-J/LeetCode/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Navesh-J/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0899-binary-gap](https://github.com/Navesh-J/LeetCode/tree/master/0899-binary-gap) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Navesh-J/LeetCode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Navesh-J/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Navesh-J/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
