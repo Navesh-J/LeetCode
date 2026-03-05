@@ -468,6 +468,7 @@ A collection of LeetCode questions.
 | [1777-determine-if-two-strings-are-close](https://github.com/Navesh-J/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Navesh-J/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/Navesh-J/LeetCode/tree/master/1797-goal-parser-interpretation) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Navesh-J/LeetCode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/Navesh-J/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Navesh-J/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/Navesh-J/LeetCode/tree/master/1899-count-items-matching-a-rule) |
