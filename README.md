@@ -522,6 +522,7 @@ A collection of LeetCode questions.
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Navesh-J/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2881-split-strings-by-separator](https://github.com/Navesh-J/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [2887-sort-vowels-in-a-string](https://github.com/Navesh-J/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
+| [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Navesh-J/LeetCode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Navesh-J/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3055-maximum-odd-binary-number](https://github.com/Navesh-J/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Navesh-J/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
