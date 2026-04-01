@@ -1,35 +1,36 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        buildHeap(nums);
-        int n=nums.length;
-        for(int i=n-1;i>=0;i--){
-            int temp=nums[0];
-            nums[0]=nums[i];
-            nums[i]=temp;
-            maxHeap(nums,i,0);
-        }
+        mergeSort(nums,0,nums.length-1);
         return nums;
     }
-    private void maxHeap(int arr[],int n,int i){
-        int largest=i;
-        int left=2*i+1, right=2*i+2;
-        if(left<n && arr[left]>arr[largest])
-            largest=left;
-        if(right<n && arr[right]>arr[largest])
-            largest=right;
-        if(largest != i){
-            int temp=arr[i];
-            arr[i]=arr[largest];
-            arr[largest]=temp;
-            maxHeap(arr,n,largest);
+    private void mergeSort(int nums[],int left,int right){
+        if(left<right){
+            int mid = left+(right-left)/2;
+            mergeSort(nums,left,mid);
+            mergeSort(nums,mid+1,right);
+            merge(nums,left,mid,right);
         }
     }
-
-    private void buildHeap(int arr[]){
-        int n=arr.length;
-        for(int i=(n-2)/2;i>=0;i--){
-            maxHeap(arr,n,i);
+    private void merge(int nums[],int left,int mid,int right){
+        int n1 = mid-left+1;
+        int n2 = right-mid;
+        int leftArr[] = new int[n1];
+        int rightArr[] = new int[n2];
+        for(int i=0;i<n1;i++) leftArr[i] = nums[left+i];
+        for(int i=0;i<n2;i++) rightArr[i] = nums[mid+1+i];
+        int i=0,j=0,k=left;
+        while(i < n1 && j < n2){
+            if(leftArr[i] < rightArr[j]){
+                nums[k++] = leftArr[i++];
+            }else{
+                nums[k++] = rightArr[j++];
+            }
+        }
+        while(i<n1){
+            nums[k++] = leftArr[i++];
+        }
+        while(j<n2){
+            nums[k++] = rightArr[j++];
         }
     }
-
 }
