@@ -150,6 +150,7 @@ A collection of LeetCode questions.
 | [1944-truncate-sentence](https://github.com/Navesh-J/LeetCode/tree/master/1944-truncate-sentence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navesh-J/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/Navesh-J/LeetCode/tree/master/1972-rotating-the-box) |
+| [1975-minimum-distance-to-the-target-element](https://github.com/Navesh-J/LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Navesh-J/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Navesh-J/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/Navesh-J/LeetCode/tree/master/2048-build-array-from-permutation) |
