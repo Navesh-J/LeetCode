@@ -531,6 +531,7 @@ A collection of LeetCode questions.
 | [2887-sort-vowels-in-a-string](https://github.com/Navesh-J/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Navesh-J/LeetCode/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Navesh-J/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3019-furthest-point-from-origin](https://github.com/Navesh-J/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3055-maximum-odd-binary-number](https://github.com/Navesh-J/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Navesh-J/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Navesh-J/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions.
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Navesh-J/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Navesh-J/LeetCode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Navesh-J/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3019-furthest-point-from-origin](https://github.com/Navesh-J/LeetCode/tree/master/3019-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navesh-J/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Navesh-J/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Navesh-J/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
