@@ -2,6 +2,8 @@ class Solution {
     public boolean rotateString(String s, String goal) {
         if(s.length()!=goal.length()) return false;
         s=s.concat(s);
-        return s.contains(goal);
+        if((s.indexOf(goal)) > -1)
+        return true;
+        return false;
     }
 }
