@@ -280,6 +280,7 @@ A collection of LeetCode questions.
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Navesh-J/LeetCode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Navesh-J/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Navesh-J/LeetCode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
+| [4216-weighted-word-mapping](https://github.com/Navesh-J/LeetCode/tree/master/4216-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -559,6 +560,7 @@ A collection of LeetCode questions.
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Navesh-J/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Navesh-J/LeetCode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Navesh-J/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4216-weighted-word-mapping](https://github.com/Navesh-J/LeetCode/tree/master/4216-weighted-word-mapping) |
 ## Counting
 |  |
 | ------- |
@@ -758,6 +760,7 @@ A collection of LeetCode questions.
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Navesh-J/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Navesh-J/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/Navesh-J/LeetCode/tree/master/3860-resulting-string-after-adjacent-removals) |
+| [4216-weighted-word-mapping](https://github.com/Navesh-J/LeetCode/tree/master/4216-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
