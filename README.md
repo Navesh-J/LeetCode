@@ -195,6 +195,7 @@ A collection of LeetCode questions.
 | [2358-number-of-ways-to-split-array](https://github.com/Navesh-J/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2386-min-max-game](https://github.com/Navesh-J/LeetCode/tree/master/2386-min-max-game) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Navesh-J/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/Navesh-J/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Navesh-J/LeetCode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Navesh-J/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2433-best-poker-hand](https://github.com/Navesh-J/LeetCode/tree/master/2433-best-poker-hand) |
@@ -1169,6 +1170,7 @@ A collection of LeetCode questions.
 | [2089-maximum-matrix-sum](https://github.com/Navesh-J/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Navesh-J/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Navesh-J/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/Navesh-J/LeetCode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Navesh-J/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Navesh-J/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Navesh-J/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
