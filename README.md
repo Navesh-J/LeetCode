@@ -284,6 +284,7 @@ A collection of LeetCode questions.
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/Navesh-J/LeetCode/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 | [4216-weighted-word-mapping](https://github.com/Navesh-J/LeetCode/tree/master/4216-weighted-word-mapping) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Navesh-J/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/Navesh-J/LeetCode/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -1063,6 +1064,7 @@ A collection of LeetCode questions.
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Navesh-J/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [4168-mirror-distance-of-an-integer](https://github.com/Navesh-J/LeetCode/tree/master/4168-mirror-distance-of-an-integer) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Navesh-J/LeetCode/tree/master/4256-construct-uniform-parity-array-i) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/Navesh-J/LeetCode/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
