@@ -1,15 +1,26 @@
 class Solution {
     public void sortColors(int[] nums) {
-        int index[]=new int[3];
-        for(int i=0;i<nums.length;i++){
-            index[nums[i]]+=1;
+        // Dutch National Flag Algorithm
+        int n = nums.length;
+        int low = 0, mid = 0, high = n - 1;
+
+        while (mid <= high) {
+            if (nums[mid] == 0) {
+                swap(nums, low, mid);
+                low++;
+                mid++;
+            } else if (nums[mid] == 1) {
+                mid++;
+            } else {
+                swap(nums, mid, high);
+                high--;
+            }
         }
-        int n=nums.length,x=0;
-        for(int i=0;i<index[0];i++)
-        nums[x++]=0;
-        for(int i=0;i<index[1];i++)
-        nums[x++]=1;
-        for(int i=0;i<index[2];i++)
-        nums[x++]=2;
+    }
+
+    private void swap(int[] nums, int i, int j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
     }
 }
