@@ -43,6 +43,7 @@ A collection of LeetCode questions.
 | [0240-search-a-2d-matrix-ii](https://github.com/Navesh-J/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Navesh-J/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Navesh-J/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Navesh-J/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Navesh-J/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navesh-J/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions.
 | [0189-rotate-array](https://github.com/Navesh-J/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Navesh-J/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Navesh-J/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Navesh-J/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Navesh-J/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navesh-J/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1074,6 +1076,7 @@ A collection of LeetCode questions.
 | [0162-find-peak-element](https://github.com/Navesh-J/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Navesh-J/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Navesh-J/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Navesh-J/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Navesh-J/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navesh-J/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Navesh-J/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -1119,6 +1122,7 @@ A collection of LeetCode questions.
 | [0191-number-of-1-bits](https://github.com/Navesh-J/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Navesh-J/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Navesh-J/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Navesh-J/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Navesh-J/LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Navesh-J/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/Navesh-J/LeetCode/tree/master/0461-hamming-distance) |
@@ -1501,4 +1505,12 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Navesh-J/LeetCode/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Navesh-J/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Navesh-J/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
